@@ -37,14 +37,14 @@ __Geospatial support__ for [mapx.io](http://mapx.io), [UNEP/GRID-Geneva](www.gri
 
 ### Consultancies
 
-`01.03.2015 - 30.09.2015`
-[Vulnerability evaluation of Greek fir forests to climate change](http://www.dimitrios-samaras.net/agroetak)
-independent research project supported by [DEMETER](http://www.elgo.gr/)
+`Mar 2015-Sep 2015`
+[Vulnerability evaluation of Greek fir forests to climate change](http://www.dimitrios-samaras.net/agroetak)<br/>
+Independent research project supported by [DEMETER](http://www.elgo.gr/)
 
-`16.04.2013 - 19.12.2013`
-*[Monitoring Mangroves Restoration from Space](http://www.unep.org/pdf/Monitoring_the_Restoration_of_Mangroves.pdf)*,[UNEP/GRID-Geneva](http://www.grid.unep.ch)
+`Apr 2013-Dec 2013`
+*[Monitoring Mangroves Restoration from Space](http://www.unep.org/pdf/Monitoring_the_Restoration_of_Mangroves.pdf)*, [UNEP/GRID-Geneva](http://www.grid.unep.ch)
 
-`23.11.2012 - 28.02.2013`
+`Dec 2012-Feb 2013`
 Forest fuel type mapping, [ArcFUEL](http://www.arcfuel.eu), [Epsilon International S.A.](www.epsilon.gr/)
 
 `January 2013`
