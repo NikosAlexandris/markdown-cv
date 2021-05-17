@@ -24,15 +24,16 @@ Ispra, Italy<br/>
 
 ### Currently
 
-`01.10.2019 - 31.09.2021`
-THERMOPOLIS, exploratory research project,
-[Joint Research Centre](https://ec.europa.eu/jrc/en), European Commission
+`Oct 2019-Sep 2021`
+__Contract Agent__, Exploratory research project __THERMOPOLIS__<br/>
+Units A5 & D1, [JRC](https://ec.europa.eu/jrc/en), EC,
 
-`23.01.2017 - Present`
-__Land Resources Unit (D3)__ [JRC](https://ec.europa.eu/jrc/en), European Commission, Geomatics & Remote Sensing support
+`Jan 2017-Sep 2019`
+__Geomatics & Remote Sensing expert__<br/>
+Land Resources Unit (D3), [JRC](https://ec.europa.eu/jrc/en), EC
 
-`01.12.2015 - 30.09.2016`
-Geospatial support for [mapx.io](http://mapx.io), [UNEP/GRID-Geneva](www.grid.unep.ch)
+`Dec 2015-Sep 2016`
+__Geospatial support__ for [mapx.io](http://mapx.io), [UNEP/GRID-Geneva](www.grid.unep.ch)
 
 ### Consultancies
 
