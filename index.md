@@ -228,43 +228,43 @@ Prof. **Demetris Stathakis**, UTH & President, Hellenic Cadastre <a href="mailto
 
 Prof. **Steffen Kuntz**, Remote Sensing & GIS <a href="mailto:Steffen.Kuntz@astrium.eads.net">Steffen.Kuntz@astrium.eads.net</a>
 
-## Presentations
+## Talks
 
 `May 3rd, 2014`
+**[FOSSCOMM2014](http://lamia.fosscomm.gr/)**, Lamia, Greece
 Oral presentation about processing QuickBird2 imagery using GRASS-GIS in
 greek: *Επεξεργασία δορυφορικών εικόνων υψηλής ανάλυσης με το GRASS-GIS,
 παράδειγμα ανάλυσης δεδομένων του δορυφόρου QuickBird2*,
-[FOSSCOMM2014](http://lamia.fosscomm.gr/), Lamia, Greece
 
 `March 4th, 2014`
-Invited talk about GRASS-GIS & Workshop (*Processing High Resolution
-Satellite Imagery with GRASS-GIS, An Example Using QuickBird2 Imagery*)
-in the VHDL laboratory, ECE, Kurukshetra University, India
+**VHDL laboratory, ECE**,
+GRASS-GIS & Workshop (*Processing High Resolution Satellite Imagery with GRASS-GIS, An Example Using QuickBird2 Imagery*), Kurukshetra University, India
 
 `February 21st, 2014`
-Talk about GRASS-GIS, TERI University, Delhi, India
+**TERI University**,
+Talk about GRASS-GIS, Delhi, India
 
 `May 2012`
-Oral presentation of dissertation (__Alexandris2011__) in
-[HellasGI](http://www.hellasgi.gr)'s
-[7th](http://www.hellasgi.gr/index.php?option=com_content&view=article&id=51:7-hellasgis&catid=28:2009-10-19-09-36-03&Itemid=17)
-conference -- [abstract in greek (PDF
-file)](http://www.hellasgi.gr/index.php?option=com_docman&task=doc_download&gid=172&Itemid=2)
+**[HellasGI](http://www.hellasgi.gr)'s
+[7th](http://www.hellasgi.gr/index.php?option=com_content&view=article&id=51:7-hellasgis&catid=28:2009-10-19-09-36-03&Itemid=17) conference**,
+Oral presentation of dissertation (__Alexandris2011__) in greek
+[(PDFfile)](http://www.hellasgi.gr/index.php?option=com_docman&task=doc_download&gid=172&Itemid=2)
 
 `June 17-19, 2011`
-Talk about GRASS-GIS, 1st Hellenic GRASS & GFOSS User's Meeting
-- Moni Paou, Argalasti, Pilio, Volos, Greece
+**1st Hellenic GRASS & GFOSS User's Meeting**,
+Talk about GRASS-GIS,
+Moni Paou, Argalasti, Pilio, Volos, Greece
 
 `November 2010`
-Participation in the 1st GeoDataCamp organised by
-[geodata.gov.gr](http://www.geodata.gov.gr/geodata/) volunteers &
-[ΕΛ/ΛΑΚ](http://ellak.gr/) (the Greek FS/OSS) community members
+**1st GeoDataCamp organised by [geodata.gov.gr](http://www.geodata.gov.gr/geodata/) volunteers &
+[ΕΛ/ΛΑΚ](http://ellak.gr/) (the Greek FS/OSS) community members**
 - Talk on burned area mapping using public domain data and GFOSS
 - One-on-One example based demonstration of GRASS-GIS
+NTUA, Athens, Greece
 
 `June 15h, 2009`
-Oral presentation at the [29th EARSeL Symposium](http://earsel29.maich.gr/docs/EARSeL_programme_abstract_book.pdf),
-Chania, Crete, Greece: Estimating the Forest Fire Damage in Peloponnese (Greece, 2007) using MODIS products
+**[29th EARSeL Symposium](http://earsel29.maich.gr/docs/EARSeL_programme_abstract_book.pdf)**,
+Oral presentation _Estimating the Forest Fire Damage in Peloponnese (Greece, 2007) using MODIS products_, Chania, Crete, Greece
 
 ## Extracurricular
 
