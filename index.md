@@ -138,15 +138,10 @@ tmux, GNU Parallel<br/>
 `****`
 TheGimp
 
-### Typography
+### Typography & Web
 
 `***`
-- LaTeX, KOMA-script
-                
-### Web
-
-`***`
-HTML, CSS    
+ LaTeX, KOMA-script, HTML, CSS
 
 ## Advanced Training
 
