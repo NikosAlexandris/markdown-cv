@@ -222,14 +222,11 @@ __Scholarship__ awarded from the income of __Sofia Chlorou Bequest__<br/> of the
 
 ## References
 
-Dr. **Pascal Peduzzi**, UNEP/GRID-Geneva
- <pascal.peduzzi@unepgrid.ch>
+Dr. **Pascal Peduzzi**, UNEP/GRID-Geneva <a href="mailto:pascal.peduzzi@unepgrid.ch">pascal.peduzzi@unepgrid.ch</a>
 
-Prof. **Demetris Stathakis**, UTH & President, Hellenic Cadastre
-  <dstath@uth.gr>
+Prof. **Demetris Stathakis**, UTH & President, Hellenic Cadastre <a href="mailto:dstath@uth.gr">dstath@uth.gr</a>
 
-Prof. **Steffen Kuntz**, Remote Sensing & GIS
-  <Steffen.Kuntz@astrium.eads.net>
+Prof. **Steffen Kuntz**, Remote Sensing & GIS <a href="mailto:Steffen.Kuntz@astrium.eads.net">Steffen.Kuntz@astrium.eads.net</a>
 
 ## Presentations
 
