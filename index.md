@@ -350,28 +350,23 @@ _ISPRS-SC. 2008_. Newsletter. Online. International Society for Photogrammetry a
 
 _Kalamaras, Dimitris_. 2008. Interview in the magazine Greek Linux Format (current Linux Inside) concerning burned area mapping using free open source software, (in Greek): Ο δασολόγος **Νίκος Αλεξανδρής** εξηγεί πως μπορεί να βοηθήσει το Linux και το ελεύθερο λογισμικό στην χαρτογράφηση των καμένων δασών. LINUX FORMAT 22 (ΙΟΥΛΙΟΣ–ΑΥΓΟΥΣΤΟΣ) [in Greek]. Edited by Dimitris Kalamaras. Magazine. Linux Inside, a greek magazine about Linux (former Greek Linux Format), Greece, May. Accessed through [http://web.archive.org](http://web.archive.org/web/20080925193645/http://www.linuxformat.gr/?q=content/linux-format-22-io%CF%85%CE%BB%CE%B9%CE%BF%CF%83-%CE%B1%CF%85%CE%B3%CE%BF%CF%85%CF%83%CF%84%CE%BF%CF%83-2008) on October 25, 2011.
 
-### Conferences
+## Conferences
 
-**Alexandris, Nikos**. 2006. GMES Land Monitoring Core Service in Mediterranean Envi-
-ronments. Exhibited during the 3rd geoland OpenDay. Poster about Interopera-
-ble Nomenclature (Fast Track Service and CORINE), February. http://web.archive.
-org/web/20091026124742/http://www.gmes-geoland.info/events/presentations.php?occ_id=43.
+`2006`
+**Alexandris, Nikos**. 2006. GMES Land Monitoring Core Service in Mediterranean Environments. Exhibited during the 3rd geoland OpenDay. Poster about Interoperable Nomenclature (Fast Track Service and CORINE), February. [http://web.archive.org/web/20091026124742/http://www.gmes-geoland.info/events/presentations.php?occ_id=43](http://web.archive.org/web/20091026124742/http://www.gmes-geoland.info/events/presentations.php?occ_id=43).
 
+_geoland. 2006a_. Index of geoland Events. Online. [http://web.archive.org/web/20100510202737/http://www.gmes-geoland.info/events/index.php](http://web.archive.org/web/20100510202737/http://www.gmes-geoland.info/events/index.php).
+
+_geoland. 2006b_. List of participants at the 3rd geoland OpenDay. Online. 3rd geoland OpenDay, Vienna, Austria, February. [http://web.archive.org/web/20091025004637/http://www.gmes-geoland.info/events/download/ListOfParticipants.pdf](http://web.archive.org/web/20091025004637/http://www.gmes-geoland.info/events/download/ListOfParticipants.pdf).
+
+_geoland. 2006c_. Overview of poster exhibition at the 3rd geoland OpenDay. Online. 3rd geoland OpenDay, Poster Exhibition, Vienna, Austria, February. [http://web.archive.org/web/20081121035536/http://www.gmes-geoland.info/events/download/Overview_PosterExhibition.pdf](http://web.archive.org/web/20081121035536/http://www.gmes-geoland.info/events/download/Overview_PosterExhibition.pdf).
+
+`2007`
+_Samaras, Dimitris_, **Nikos Alexandris**, Fotis Xystrakis, and Georgios Mouflis. 2007. “Climatic classification of central Sterea Hellas with the use of GIS [in Greek].” In Proceedings of the 4 th panhellenic congress ”modern tendencies in ecological research”, 156–157. Volos, Greece, October.
+
+`2009`
 **Alexandris, Nikos**, and Nikos Koutsias. 2009. “Estimating the Forest Fire Damage in
-Peloponnese (Greece, 2007) using MODIS products.” In 29th EARSeL Sympo-
-sium, Symposium Programme and Abstract Book, edited by Ioannis Manakos,
-Chariton Kalaitzidis, Dina Petraki, and Nikos Psyllakis, 4. Oral presentation.
-MAICh Conference Center, Chania, Crete - Greece: MAICh, October. http://earsel29.maich.gr/docs/EARSeL_programme_abstract_book.pdf.
-
-geoland. 2006a. Index of geoland Events. Online. http://web.archive.org/web/20100510202737/http://www.gmes-geoland.info/events/index.php.
-
-geoland. 2006b. List of participants at the 3rd geoland OpenDay. Online. 3rd geoland
-OpenDay, Vienna, Austria, February. http://web.archive.org/web/20091025004637/http://www.gmes-geoland.info/events/download/ListOfParticipants.pdf.
-
-geoland. 2006c. Overview of poster exhibition at the 3rd geoland OpenDay. Online. 3rd geoland OpenDay, Poster Exhibition, Vienna, Austria, February. http://web.archive.org/web/20081121035536/http://www.gmes-geoland.info/events/download/Overview_PosterExhibition.pdf.
-
-Samaras, Dimitris, **Nikos Alexandris**, Fotis Xystrakis, and Georgios Mouflis. 2007.
-“Climatic classification of central Sterea Hellas with the use of GIS [in Greek].” In Proceedings of the 4 th panhellenic congress ”modern tendencies in ecological research”, 156–157. Volos, Greece, October.
+Peloponnese (Greece, 2007) using MODIS products.” In 29th EARSeL Symposium, Symposium Programme and Abstract Book, edited by Ioannis Manakos, Chariton Kalaitzidis, Dina Petraki, and Nikos Psyllakis, 4. Oral presentation. MAICh Conference Center, Chania, Crete - Greece: MAICh, October. [http://earsel29.maich.gr/docs/EARSeL_programme_abstract_book.pdf](http://earsel29.maich.gr/docs/EARSeL_programme_abstract_book.pdf).
 
 ## Memberships
 
