@@ -5,12 +5,13 @@ title: Nikos Alexandris' CV
 # Nikos Alexandris
 Geomatics & Remote Sensing
 
-<a href="Nikos.Alexandris@ec.europa.eu">Nikos.Alexandris@ec.europa.eu</a><br/>
-[Joint Research Centre (**JRC**)](https://ec.europa.eu/jrc/en), European Commission<br/>
+Joint Research Centre [(**JRC**)](https://ec.europa.eu/jrc/en), European Commission<br/>
 Ispra, Italy<br/>
 
-<a href="nik@nikosalexandris.net">nik@nikosalexandris.net</a> --
- +39 345 735 0 775
+  <a href=""><i class="fas fa-at"></i></a>
+  <a href="mailto:nik@nikosalexandris@net">nik@nikosalexandris.net</a> 
+  <a href="mailto:Nikos.Alexandris@ec.europa.eu">Nikos.Alexandris@ec.europa.eu</a><br/>
+  <a href="tel:+393457350775" style="text-decoration: none"><i class="fas fa-mobile-alt"></i> +39-345-735-0-775</a>
 
 <div id="webaddress">
   <a href="https://linkedin.com/pub/nikos-alexandris"><i class="fab fa-linkedin"></i> nikos-alexandris</a> -
