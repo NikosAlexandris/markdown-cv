@@ -208,14 +208,16 @@ __GeoInfo--Applied Research & Studies__, Thessaloniki, Greece
 `Aug 2003`
 Forestry Service in Kalabaka, Prefecture of Trikala, Greece
 
-## Scholarships
+## Honors
 
-`July 2008`
+`Jul 2008`
 __Significant contribution to the
 [ISPRS Student Consortium Newsletter](http://www.isprs-sc.org/newsletters)__
 - International Society for Photogrammetry & Remote Sensing
 
-`October 2005 - October 2009`
+## Scholarships
+
+`Oct 2005-Oct 2009`
 __Scholarship__ awarded from the income of __Sofia Chlorou Bequest__<br/> of the __National Technical University of Athens__, Greece
 
 ## References
