@@ -332,7 +332,7 @@ tial Data, Software and Standards 2, no. 1 (July): 17. doi: [10.1186/s40965-017-
 burned areas via PCA. Part 2: SVD-based PCA using MODIS and Landsat data.”
 Open Geospatial Data, Software and Standards (August). doi: [10.1186/s40965-017-0029-0](https://doi.org/10.1186/s40965-017-0029-0).
 
-Giuliani, Gregory, Hy Dao, Andrea De Bono, Bruno Chatenoux, Karin Allenbach,
+_Giuliani, Gregory_, Hy Dao, Andrea De Bono, Bruno Chatenoux, Karin Allenbach,
 Pierric De Laborie, Denisa Rodila, **Nikos Alexandris**, and Pascal Peduzzi. 2017.
 “Live Monitoring of Earth Surface (LiMES): A framework for monitoring envi-
 ronmental changes from Earth Observations.” Big Remotely Sensed Data: tools,
@@ -349,11 +349,9 @@ Monitoring The Restoration of Mangrove Ecosystems from Space. Technical report. 
 
 **Alexandris, Nikos**, and Patrick Pyttel. 2012. “Mapping Disturbed Areas in Aged Coppice on Steep Slopes along Rhine & Moselle (Rheinland-Pfalz), A Visual Interpretation Approach based on True Colour Orthophotos” [in English]. Centre for Geospatial Science, University of Nottingham; Mimas Centre of Excellence, University of Manchester. October. [http://elogeo.nottingham.ac.uk/xmlui](http://elogeo.nottingham.ac.uk/xmlui).
 
-ISPRS-SC. 2008. Newsletter. Online. International Society for Photogrammetry and
-Remote Sensing, Student Consortium. http://www.isprs-sc.org/newsletters.
+_ISPRS-SC. 2008_. Newsletter. Online. International Society for Photogrammetry and Remote Sensing, Student Consortium. [http://www.isprs-sc.org/newsletters](http://www.isprs-sc.org/newsletters).
 
-Kalamaras, Dimitris. 2008. Interview in the magazine Greek Linux Format (current
-Linux Inside) concerning burned area mapping using free open source software, (in Greek): Ο δασολόγος **Νίκος Αλεξανδρής** εξηγεί πως μπορεί να βοηθήσει το Linux και το ελεύθερο λογισμικό στην χαρτογράφηση των καμένων δασών. LINUX FORMAT 22 (ΙΟΥΛΙΟΣ–ΑΥΓΟΥΣΤΟΣ) [in Greek]. Edited by Dimitris Kalamaras. Magazine. Linux Inside, a greek magazine about Linux (former Greek Linux Format), Greece, May. Accessed October 25, 2011. [http://web.archive.org/web/20080925193645/http://www.linuxformat.gr/?q=content/linux-format-22-io%CF%85%CE%BB%CE%B9%CE%BF%CF%83-%CE%B1%CF%85%CE%B3%CE%BF%CF%85%CF%83%CF%84%CE%BF%CF%83-2008](http://web.archive.org/web/20080925193645/http://www.linuxformat.gr/?q=content/linux-format-22-io%CF%85%CE%BB%CE%B9%CE%BF%CF%83-%CE%B1%CF%85%CE%B3%CE%BF%CF%85%CF%83%CF%84%CE%BF%CF%83-2008).
+_Kalamaras, Dimitris_. 2008. Interview in the magazine Greek Linux Format (current Linux Inside) concerning burned area mapping using free open source software, (in Greek): Ο δασολόγος **Νίκος Αλεξανδρής** εξηγεί πως μπορεί να βοηθήσει το Linux και το ελεύθερο λογισμικό στην χαρτογράφηση των καμένων δασών. LINUX FORMAT 22 (ΙΟΥΛΙΟΣ–ΑΥΓΟΥΣΤΟΣ) [in Greek]. Edited by Dimitris Kalamaras. Magazine. Linux Inside, a greek magazine about Linux (former Greek Linux Format), Greece, May. Accessed through [http://web.archive.org](http://web.archive.org/web/20080925193645/http://www.linuxformat.gr/?q=content/linux-format-22-io%CF%85%CE%BB%CE%B9%CE%BF%CF%83-%CE%B1%CF%85%CE%B3%CE%BF%CF%85%CF%83%CF%84%CE%BF%CF%83-2008) on October 25, 2011.
 
 ### Conferences
 
