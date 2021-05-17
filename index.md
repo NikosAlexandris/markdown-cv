@@ -50,28 +50,25 @@ Forest fuel type mapping, [ArcFUEL](http://www.arcfuel.eu), [Epsilon Internation
 `January 2013`
 Adaptation of ArcGIS-based timber volume estimation to GRASS-GIS, [Fondazione Edmund Mach](www.fmach.it/)
 
-### Academic contributions
-
-[Silviculture Institute](https://www.waldbau.uni-freiburg.de/front-page-en?set_language=en),
-Albert-Ludwigs University,
-Freiburg i. Br., Germany
-
-`July 2009`
-- Guest scientist in *Site Classification of European Forests* practicum,
-
-`01-31.03.2009`
-- Mapping disturbed areas in aged coppice on steep slopes in Rhine & Moselle
-
 ### Various
 
-`24 & 25 April 2008`
-*Rapid Fire Area Mapping*,
-Workshop co-organized by ECAT - Tirana & SNV - Netherlands
-Tirana, Albania
+`July 2009`
+- Guest scientist in the *Site Classification of European Forests* practicum,
+[Silviculture Institute](https://www.waldbau.uni-freiburg.de/front-page-en?set_language=en),
+Albert-Ludwigs University, Freiburg i. Br., Germany
 
-`14.03.2005 - 31.09.2006`
-Remote Sensing/GIS expert, [Infoterra GmbH](http://www.infoterra.de/),
-Friedrichshafen, Germany
+`Mar 2009`
+- Mapping disturbed areas in aged coppice on steep slopes in Rhine & Moselle
+[Silviculture Institute](https://www.waldbau.uni-freiburg.de/front-page-en?set_language=en),
+Albert-Ludwigs University, Freiburg i. Br., Germany
+
+`24&25 Apr 2008`
+*Rapid Fire Area Mapping* workshop,
+Co-organized by ECAT-Tirana & SNV-Netherlands in Tirana, Albania
+
+`Mar 2005-Sep 2006`
+**Remote Sensing & GIS expert**<br/>
+[Infoterra GmbH](http://www.infoterra.de/), Friedrichshafen, Germany
 
 
 ## Education
