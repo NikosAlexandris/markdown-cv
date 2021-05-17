@@ -13,10 +13,10 @@ Ispra, Italy<br/>
  +39 345 735 0 775
 
 <div id="webaddress">
-  <a href="https://github.com/NikosAlexandris"><i class="fab fa-github"></i> NikosAlexandris</a> - 
-  <a href="https://gitlab.com/NikosAlexandris"><i class="fab fa-gitlab"></i> NikosAlexandris</a> - 
-  <a href="https://twitter.com/NikAlexandris"><i class="fab fa-twitter"></i> @NikAlexandris</a>
-  <a href="https://linkedin.com/pub/nikos-alexandris"><i class="fab fa-linkedin"></i> nikos-alexandris</a>
+  <a href="https://linkedin.com/pub/nikos-alexandris"><i class="fab fa-linkedin"></i> nikos-alexandris</a> -
+  <a href="https://twitter.com/NikAlexandris"><i class="fab fa-twitter"></i> @NikAlexandris</a><br/>
+  <a href="https://github.com/NikosAlexandris"><i class="fab fa-github"></i> NikosAlexandris</a> -
+  <a href="https://gitlab.com/NikosAlexandris"><i class="fab fa-gitlab"></i> NikosAlexandris</a>
 </div>
 
 ## Experiences
