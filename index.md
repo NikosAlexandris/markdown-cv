@@ -90,6 +90,8 @@ Pertouli, Trikala, central Greece
 
 `July 2001`
 Taxiarchis, Chalcidice Peninsula, north Greece
+<br/>
+<br/>
 
 ## Skills
 
