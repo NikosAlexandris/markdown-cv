@@ -281,28 +281,26 @@ website in
 [Greek](http://wiki.osgeo.org/wiki/Greek_translation_progress)__
 
 `12 & 13 May 2012`
-Attented the 5th greek [fosscomm](http://serres.fosscomm.gr)
+**Attended the** [**5th greek FOSSCOMM**](http://serres.fosscomm.gr)
 
 `2008 - Present`
-End-user contributions in [GRASS-GIS](http://grass.osgeo.org/) ,
-[Quantum-GIS](http://qgis.osgeo.org)  and **Tutorials** using GRASS-GIS
-on PCA, ASTER GDEM tiles and CORINE land cover data
+**End-user contributions in Open Source Projects**
 
-[**GRASS-GIS**](http://grass.osgeo.org/)
-- Official GRASS-GIS site: [http://grass.osgeo.org/](http://grass.osgeo.org)
-- GRASS GIS Tracker and Wiki: [http://trac.osgeo.org/grass](http://trac.osgeo.org/grass)
-- GRASS GIS Users Wiki: [http://grass.osgeo.org/wiki/Main_Page](http://grass.osgeo.org/wiki/Main_Page)
-- "grass-user" mailing list: [http://lists.osgeo.org/pipermail/grass-user/](http://lists.osgeo.org/pipermail/grass-user/)
-- "grass-dev" mailing list: [http://lists.osgeo.org/pipermail/grass-user/](http://lists.osgeo.org/pipermail/grass-dev)
+- [**GRASS-GIS**](http://grass.osgeo.org/)
+  - Official GRASS-GIS site: [http://grass.osgeo.org/](http://grass.osgeo.org)
+  - GRASS GIS Tracker and Wiki: [http://trac.osgeo.org/grass](http://trac.osgeo.org/grass)
+  - GRASS GIS Users Wiki: [http://grass.osgeo.org/wiki/Main_Page](http://grass.osgeo.org/wiki/Main_Page)
+  - "grass-user" mailing list: [http://lists.osgeo.org/pipermail/grass-user/](http://lists.osgeo.org/pipermail/grass-user/)
+  - "grass-dev" mailing list: [http://lists.osgeo.org/pipermail/grass-user/](http://lists.osgeo.org/pipermail/grass-dev)
 
-[**Quantum-GIS**](http://qgis.osgeo.org)
-- Designed and contributed some [north arrows for QGIS](http://hub.qgis.org/projects/quantum-gis/repository/revisions/2695fcdaec1939ba0e0f86484da3a16ba78dc947)
-- Archive of the "qgis-user" mailing list: [http://lists.osgeo.org/pipermail/qgis-user/](http://lists.osgeo.org/pipermail/qgis-user/)
+- [**Quantum-GIS**](http://qgis.osgeo.org)
+  - Designed and contributed some [north arrows for QGIS](http://hub.qgis.org/projects/quantum-gis/repository/revisions/2695fcdaec1939ba0e0f86484da3a16ba78dc947)
+  - Archive of the "qgis-user" mailing list: [http://lists.osgeo.org/pipermail/qgis-user/](http://lists.osgeo.org/pipermail/qgis-user/)
 
-__Tutorials using GRASS-GIS__
-- [Principal Components Analysis in GRASS-GIS' wiki](http://grass.osgeo.org/wiki/Principal_Components_Analysis)
-- Using ASTER GDEM tiles with GRASS-GIS: [ASTER topography](http://grass.osgeo.org/wiki/ASTER_topography)
-- [CORINE Land Cover](http://www.eea.europa.eu/publications/COR0-landcover):
+- __Tutorials using GRASS-GIS__
+  - [Principal Components Analysis in GRASS-GIS' wiki](http://grass.osgeo.org/wiki/Principal_Components_Analysis)
+  - Using ASTER GDEM tiles with GRASS-GIS: [ASTER topography](http://grass.osgeo.org/wiki/ASTER_topography)
+  - [CORINE Land Cover](http://www.eea.europa.eu/publications/COR0-landcover):
   - Instructions on the processing of CORINE land cover at GRASS-GIS' wiki: [Processing the "vector version of the CORINE land cover 2000" with GRASS-GIS](http://grass.osgeo.org/wiki/CORINE_Land_Cover\#Vector)
   - [Using the CORINE2000 land cover/ land use data base with GRASS-GIS under Ubuntu-linux 8.04](http://www.osgeo.org/node/1325)
   - Αναπαραγωγή του χάρτη CORINE με το GRASS-GIS, 2η δημοσίευση, Φεβρουάριος 2009: [Reproduction of the CORINE land cover/ use map using GRASS-GIS [in Greek]](http://prdownload.berlios.de/gregis/corine_grass-gis_el.pdf)
@@ -317,8 +315,7 @@ __Wildlife Museum Guide__
 - Institute for Wildlife & Wild management, Forestry Faculty, Aristotle University in Thessaloniki__
 
 `August 1997`
-Coordinated a voluntary work group of WWF-Hellas in Lefkimi, Evros, NE
-Greece in setting up a mountainous ecotouristic path
+**Coordinator of a voluntary work group of WWF-Hellas**, opening a mountainous ecotouristic path, Lefkimi, Evros, Greece
 
 ## Publications
 
