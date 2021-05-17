@@ -147,18 +147,18 @@ TheGimp
 
 ## Advanced Training
 
-`October 2008 - January 2009`
+`Oct 2008-Jan 2009`
 __Einführung in die Statistik mit R__
 - by Dr. Jürgen Zell, Abteilung Biometrie und Informatik,
 [Forstliche Versuchs- und Forschungsanstalt, Baden-Württemberg (FVA)](http://www.fva-bw.de/)
 - organized by the [Center for Key Qualifications/ Zentrum für Schlüsselqualifikationen (ZfS)](http://www.zfs.uni-freiburg.de/),
 University of Freiburg
 
-`15 & 16 May 2008`
+`15+16 May 2008`
 __Hochschuldidaktische Grundlagen fuer Internationale Doktorandinnen und Doktoranden im Bereich Teaching Assistant I__
 - by Petra Eggensperger, Arbeitsstelle Hochschuldidaktik Freiburg, Universität Freiburg
 
-`October 31 - November 4, 2005`
+`Oct 31-Nov 4, 2005`
 __Introduction to RADAR Image Processing__
 - by Prof. Dr. Steffen Kuntz, organized by the Laboratory for Forest Management & Remote Sensing of the Forestry Faculty at the Aristotle University of Thessaloniki
 
@@ -166,7 +166,7 @@ __Introduction to RADAR Image Processing__
 __Einführung in Linux__
 - by Saher Semáan, Rechenzentrum, Albert-Ludwigs Universität, Freiburg
 
-`7 & 8 June 2004`
+`7+8 June 2004`
 __Special Decision Support System for Environmental Analysis__
 - organized within the frame of the EU-project geoland by the Laboratory for Forest Management & Remote Sensing of the Forestry Faculty at the Aristotle University of Thessaloniki
 
