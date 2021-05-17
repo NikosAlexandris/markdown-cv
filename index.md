@@ -172,17 +172,17 @@ __Special Decision Support System for Environmental Analysis__
 
 ### Online-courses
 
-`September 2014 - January 2018`
+`Sep 2014-Jan 2018`
 [Fundamentals of Computing](https://www.coursera.org/account/accomplishments/specialization/R9XKZADED9A6)
 specialization at
 [Coursera](https://www.coursera.org/)
 - (7 course certificates, 1 capstone project)
 
-`April - October 2014`
+`Apr-Oct 2014`
 [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage)
 series at Coursera
 
-`5 to 30 November 2007`
+`5 to 30 Nov 2007`
 __National Integrated Environmental Process, Design & Organization, UNEP__
 - Final assignment discusses key questions of an Integrated Environmental Assessment on *The Greek Forest Fire Problematic*.
 
@@ -197,15 +197,15 @@ University of Freiburg, Germany,
 
 ## Internships
 
-`October 2007 - February 2008`
+`Oct 2007-Feb 2008`
 [UNEP/DEWA/GRID-Geneva](http://www.grid.unep.ch), Switzerland
 - Burned area mapping using free & open source geospatial applications
 
-`March 2004 - July 2004`
+`Mar 2004-Jul 2004`
 __GeoInfo--Applied Research & Studies__, Thessaloniki, Greece
 - GIS training, participating in running projects, partially elaborated the diploma thesis
 
-`August 2003`
+`Aug 2003`
 Forestry Service in Kalabaka, Prefecture of Trikala, Greece
 
 ## Scholarships
