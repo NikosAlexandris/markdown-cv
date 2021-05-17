@@ -73,29 +73,19 @@ Co-organized by ECAT-Tirana & SNV-Netherlands in Tirana, Albania
 
 ## Education
 
-### University of Freiburg, Germany
+`Oct 2005-Jun 2011`
+__Dr. rer. nat.__, Dpt. of Remote Sensing & Landscape Information Systems ([FeLIS](http://www.felis.uni-freiburg.de)), Faculty of Forest & Environmental Sciences, University of Freiburg, Germany
 
-__Faculty of Forest & Environmental Sciences__
+`Oct 2004-Oct 2005`
+__Master's program__, _Sustainable Forestry & Land Use Management_<br/>
+Faculty of Forest & Environmental Sciences, University of Freiburg, Germany -- _Attended only one year_
 
-`October 2005 - June 2011`
-- __Doctorate__ in the Dept. of Remote Sensing & Landscape Information Systems ([FeLIS](http://www.felis.uni-freiburg.de))
-- _Burned Area Mapping via Non-centered Principal Components Analysis using Public Domain Data & Free Open Source Software_
-
-`October 2004 - October 2005`
-__Master's__
-- Sustainable Forestry & Land Use Management -- Attended only one year
-
-
-### Aristotle University of Thessaloniki, Greece
-
-__Faculty of Forestry & Natural Environment__
-
-`September 1999 - July 2004`
-- Diploma _-- Equivalent to Master's_
+`Sep 1999-Jul 2004`
+- __Diploma__, Faculty of Forestry & Natural Environment,<br/> Aristotle University of Thessaloniki, Greece<br/> _5 years of studies, equivalent to Master's_
 
 __Training, Practical Forestry in University-owned forests__
 
-`July 2003 & August 2002`
+`Jul 2003 & Aug 2002`
 Pertouli, Trikala, central Greece
 
 `July 2001`
