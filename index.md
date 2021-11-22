@@ -24,6 +24,10 @@ Ispra, Italy<br/>
 
 ### Currently
 
+`Since Oct 2021`
+__Contract Agent__,
+Unit C2, [JRC](https://ec.europa.eu/jrc/en), EC,
+
 `Oct 2019-Sep 2021`
 __Contract Agent__, Exploratory research project __THERMOPOLIS__<br/>
 Units A5 & D1, [JRC](https://ec.europa.eu/jrc/en), EC,
