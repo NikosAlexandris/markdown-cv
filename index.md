@@ -380,7 +380,7 @@ Peloponnese (Greece, 2007) using MODIS products.” In 29th EARSeL Symposium, Sy
 
 Speaks & writes fluently: English, German, Greek
 
-Working level: French (niveau obtenu B1) and Italian
+Working level: French (niveau B2) and Italian
 
 ## Personal
 
