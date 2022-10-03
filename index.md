@@ -110,12 +110,12 @@ Taxiarchis, Chalcidice Peninsula, north Greece
 
 `*****`
 GRASS-GIS
-`****`             
+`****`
 QGIS
 `****`
 GDAL/OGR
 `****`
-Supercomputing
+Supercomputing (High-Throughput Cluster)
 
 ### Scripting
 
