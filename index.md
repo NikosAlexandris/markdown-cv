@@ -109,11 +109,11 @@ Taxiarchis, Chalcidice Peninsula, north Greece
 ### Remote Sensing & GIS
 
 `*****`
-GRASS-GIS
+GRASS-GIS<br/>
 `****`
-QGIS
+QGIS<br/>
 `****`
-GDAL/OGR
+GDAL/OGR<br/>
 `****`
 Supercomputing (High-Throughput Cluster)
 
