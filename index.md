@@ -45,6 +45,9 @@ __Geospatial support__ for [mapx.io](http://mapx.io), [UNEP/GRID-Geneva](https:/
 [Vulnerability evaluation of Greek fir forests to climate change](http://www.dimitrios-samaras.net/agroetak)<br/>
 Independent research project supported by [DEMETER](http://www.elgo.gr/)
 
+`Jan 2014-Aug 2015`
+Time for recreation and personal development, see also section _Online-courses_
+
 `Apr 2013-Dec 2013`
 *[Monitoring Mangroves Restoration from Space](http://www.unep.org/pdf/Monitoring_the_Restoration_of_Mangroves.pdf)*, [UNEP/GRID-Geneva](http://www.grid.unep.ch)
 
@@ -117,12 +120,12 @@ GDAL/OGR<br/>
 `****`
 Supercomputing (High-Throughput Cluster)
 
-### Scripting
+### Scripting & Version Control
 
 `****`
 Python<br/>
 `***`
-R (+knitr)<br/>
+Git
 `*****`
 bash
 
