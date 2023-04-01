@@ -5,18 +5,15 @@ title: Nikos Alexandris' CV
 # Nikos Alexandris
 Geomatics & Remote Sensing
 
-Joint Research Centre [(**JRC**)](https://ec.europa.eu/jrc/en), European Commission<br/>
+Joint Research Centre [(JRC)](https://ec.europa.eu/jrc/en), European Commission<br/>
 Ispra, Italy<br/>
 
   <a href=""><i class="fas fa-at"></i></a>
-  <a href="mailto:nik@nikosalexandris@net">nik@nikosalexandris.net</a> 
-  <a href="mailto:Nikos.Alexandris@ec.europa.eu">Nikos.Alexandris@ec.europa.eu</a><br/>
-  <a href="tel:+393457350775" style="text-decoration: none"><i class="fas fa-mobile-alt"></i> +39-345-735-0-775</a>
+  <a href="mailto:nik@nikosalexandris@net">nikosalexandris@duck.com</a>&emsp;&emsp;<a href="tel:+393457350775" style="text-decoration: none"><i class="fas fa-mobile-alt"></i> +39-345-735-0-775</a>
 
 <div id="webaddress">
-  <a href="https://linkedin.com/pub/nikos-alexandris"><i class="fab fa-linkedin"></i> nikos-alexandris</a> -
-  <a href="https://twitter.com/NikAlexandris"><i class="fab fa-twitter"></i> @NikAlexandris</a><br/>
-  <a href="https://github.com/NikosAlexandris"><i class="fab fa-github"></i> NikosAlexandris</a> -
+  <a href="https://linkedin.com/pub/nikos-alexandris"><i class="fab fa-linkedin"></i> nikos-alexandris</a>&emsp;&emsp;
+  <a href="https://github.com/NikosAlexandris"><i class="fab fa-github"></i> NikosAlexandris</a>&emsp;&emsp; 
   <a href="https://gitlab.com/NikosAlexandris"><i class="fab fa-gitlab"></i> NikosAlexandris</a>
 </div>
 
@@ -46,32 +43,33 @@ __Geospatial support__ for [mapx.io](http://mapx.io), [UNEP/GRID-Geneva](https:/
 Independent research project supported by [DEMETER](http://www.elgo.gr/)
 
 `Jan 2014-Aug 2015`
+<span style="color:gray">
 Time for recreation and personal development, see also section _Online-courses_
-
+</span>
 `Apr 2013-Dec 2013`
-*[Monitoring Mangroves Restoration from Space](http://www.unep.org/pdf/Monitoring_the_Restoration_of_Mangroves.pdf)*, [UNEP/GRID-Geneva](http://www.grid.unep.ch)
+*[Monitoring Mangroves Restoration from Space](http://www.unep.org/pdf/Monitoring_the_Restoration_of_Mangroves.pdf)*,<br/>[UNEP/GRID-Geneva](http://www.grid.unep.ch)
 
 `Dec 2012-Feb 2013`
 Forest fuel type mapping, [ArcFUEL](http://www.arcfuel.eu), [Epsilon International S.A.](www.epsilon.gr/)
 
 `January 2013`
-Adaptation of ArcGIS-based timber volume estimation to GRASS-GIS, [Fondazione Edmund Mach](www.fmach.it/)
+Adaptation of ArcGIS-based timber volume estimation to<br/>GRASS-GIS, [Fondazione Edmund Mach](www.fmach.it/)
 
 ### Various
 
 `July 2009`
-- Guest scientist in the *Site Classification of European Forests* practicum,
+Guest scientist in the *Site Classification of European Forests* practicum,
 [Silviculture Institute](https://www.waldbau.uni-freiburg.de/front-page-en?set_language=en),
 Albert-Ludwigs University, Freiburg i. Br., Germany
 
 `Mar 2009`
-- Mapping disturbed areas in aged coppice on steep slopes in Rhine & Moselle
+Mapping disturbed areas in aged coppice on steep slopes in Rhine & Moselle
 [Silviculture Institute](https://www.waldbau.uni-freiburg.de/front-page-en?set_language=en),
 Albert-Ludwigs University, Freiburg i. Br., Germany
 
-`24&25 Apr 2008`
+`24 & 25 Apr 2008`
 *Rapid Fire Area Mapping* workshop,
-Co-organized by ECAT-Tirana & SNV-Netherlands in Tirana, Albania
+Co-organized by ECAT-Tirana<br/> & SNV-Netherlands in Tirana, Albania
 
 `Mar 2005-Sep 2006`
 **Remote Sensing & GIS expert**<br/>
@@ -84,8 +82,7 @@ Co-organized by ECAT-Tirana & SNV-Netherlands in Tirana, Albania
 __Dr. rer. nat.__, Dpt. of Remote Sensing & Landscape Information Systems ([FeLIS](http://www.felis.uni-freiburg.de)), Faculty of Forest & Environmental Sciences, University of Freiburg, Germany
 
 `Oct 2004-Oct 2005`
-__Master's program__, _Sustainable Forestry & Land Use Management_<br/>
-Faculty of Forest & Environmental Sciences, University of Freiburg, Germany -- _Attended only one year_
+__Master's program__, _Sustainable Forestry & Land Use_<br/>_Management_, Faculty of Forest & Environmental Sciences, University of Freiburg, Germany -- ___Attended only one year___
 
 `Sep 1999-Jul 2004`
 - __Diploma__, Faculty of Forestry & Natural Environment,<br/> Aristotle University of Thessaloniki, Greece<br/> _5 years of studies, equivalent to Master's_
@@ -97,59 +94,48 @@ Pertouli, Trikala, central Greece
 
 `July 2001`
 Taxiarchis, Chalcidice Peninsula, north Greece
-<br/>
-<br/>
+
 
 ## Skills
 
-`*`
-1 \* = weak 
-
-`*****`
-5 \* = very strong
-
+- weak &larr; `*` `**` `***` `****` `*****` &rarr; very strong
 
 ### Remote Sensing & GIS
 
-`*****`
-GRASS-GIS<br/>
-`****`
-QGIS<br/>
-`****`
-GDAL/OGR<br/>
-`****`
-Supercomputing (High-Throughput Cluster)
+**`*****`**
+GRASS-GIS
 
-### Scripting & Version Control
+**`****`**
+QGIS, GDAL/OGR
 
-`****`
-Python<br/>
-`***`
-Git
-`*****`
-bash
-
-### Databases
-
-`***`
+**`***`**
 SQLite, PostGIS   
 
 ### OSes & Co
 
-`****`
-Funtoo-Linux, ZFS, ssh, docker<br/>
-`*****`
-vim<br/>
-`**`
-SCons<br/>
-`***`
-tmux, GNU Parallel<br/>
-`****`
-TheGimp
+**`****`**
+Linux (Funtoo, EndeavourOS, Ubuntu), neovim, ZFS, ssh,<br> Docker, Supercomputing (High-Throughput Cluster)
+
+**`***`**
+tmux, GNU Parallel
+
+**`**`**
+CI/CD, SCons
+
+### Scripting & Versioning
+
+**`*****`**
+Bash
+
+**`****`**
+Python
+
+**`***`**
+Git, R (+knitr)
 
 ### Typography & Web
 
-`***`
+**`***`**
  LaTeX, KOMA-script, HTML, CSS
 
 ## Advanced Training
@@ -225,15 +211,15 @@ __Significant contribution to the
 ## Scholarships
 
 `Oct 2005-Oct 2009`
-__Scholarship__ awarded from the income of __Sofia Chlorou Bequest__<br/> of the __National Technical University of Athens__, Greece
+__Scholarship__ awarded from the __Sofia Chlorou Bequest__ of the __National Technical University of Athens__, Greece
 
 ## References
 
-Dr. **Pascal Peduzzi**, UNEP/GRID-Geneva <a href="mailto:pascal.peduzzi@unepgrid.ch">pascal.peduzzi@unepgrid.ch</a>
+Dr. **Pascal Peduzzi**, UNEP/GRID-Geneva<br><a href="mailto:pascal.peduzzi@unepgrid.ch">pascal.peduzzi@unepgrid.ch</a>
 
-Prof. **Demetris Stathakis**, UTH & President, Hellenic Cadastre <a href="mailto:dstath@uth.gr">dstath@uth.gr</a>
+Prof. **Demetris Stathakis**, UTH & President, Hellenic Cadastre<br><a href="mailto:dstath@uth.gr">dstath@uth.gr</a>
 
-Prof. **Steffen Kuntz**, Remote Sensing & GIS <a href="mailto:Steffen.Kuntz@astrium.eads.net">Steffen.Kuntz@astrium.eads.net</a>
+Prof. **Steffen Kuntz**, Remote Sensing & GIS<br><a href="mailto:Steffen.Kuntz@astrium.eads.net">Steffen.Kuntz@astrium.eads.net</a>
 
 ## Talks
 
@@ -259,7 +245,7 @@ Oral presentation of dissertation (__Alexandris2011__) in greek
 
 `June 17-19, 2011`
 **1st Hellenic GRASS & GFOSS User's Meeting**,
-Talk about GRASS-GIS,
+Talk about<br/>GRASS-GIS,
 Moni Paou, Argalasti, Pilio, Volos, Greece
 
 `November 2010`
@@ -282,7 +268,7 @@ __Participation in GRASS-GIS' community sprints__
 - [Prague 2012](http://grass.osgeo.org/wiki/GRASS_Community_Sprint_Prague_2012)
 
 
-`~May 2012`
+`May 2012`
 __Support translation of the official [OSGeo](https://www.osgeo.org/)
 website in
 [Greek](http://wiki.osgeo.org/wiki/Greek_translation_progress)__
@@ -312,14 +298,14 @@ website in
   - [Using the CORINE2000 land cover/ land use data base with GRASS-GIS under Ubuntu-linux 8.04](http://www.osgeo.org/node/1325)
   - Αναπαραγωγή του χάρτη CORINE με το GRASS-GIS, 2η δημοσίευση, Φεβρουάριος 2009: [Reproduction of the CORINE land cover/ use map using GRASS-GIS [in Greek]](http://prdownload.berlios.de/gregis/corine_grass-gis_el.pdf)
 
-`~June 2008`
+`June 2008`
 __Interview in the magazine Greek Linux Format (current Linux Inside)__
 - Burned area mapping using free open source software,
  Issue 22, June-August 2008, (accessed on October 25, 2011)
 
 `Winter 2001 - Summer 2004`
 __Wildlife Museum Guide__
-- Institute for Wildlife & Wild management, Forestry Faculty, Aristotle University in Thessaloniki__
+- Institute for Wildlife & Wild management, Forestry Faculty, Aristotle University in Thessaloniki
 
 `August 1997`
 **Coordinator of a voluntary work group of WWF-Hellas**, opening a mountainous ecotouristic path, Lefkimi, Evros, Greece
@@ -381,9 +367,10 @@ Peloponnese (Greece, 2007) using MODIS products.” In 29th EARSeL Symposium, Sy
 
 ## Languages
 
-Speaks & writes fluently: English, German, Greek
-
-Working level: French (niveau B2) and Italian (autodidatta)
+Speaks & writes<br/>
+~ fluently English, German, Greek<br/>
+~ French (niveau B2)<br/>
+~ working level Italian (autodidatta)
 
 ## Personal
 
@@ -394,4 +381,6 @@ Citizenship: Hellenic
 `May 2011 - February 2012`
 Fullfiled military obligations in Greece
 
+<span style="color:gray">
 <br/>Last updated: Mar 2023<br/><br/>
+</span>
