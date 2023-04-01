@@ -382,5 +382,5 @@ Citizenship: Hellenic
 Fullfiled military obligations in Greece
 
 <span style="color:gray">
-<br/>Last updated: Mar 2023<br/><br/>
+<br/>Last updated: Apr 2023<br/><br/>
 </span>
