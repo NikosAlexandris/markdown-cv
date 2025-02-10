@@ -9,7 +9,7 @@ Joint Research Centre [(JRC)](https://ec.europa.eu/jrc/en), European Commission<
 Ispra, Italy<br/>
 
   <a href=""><i class="fas fa-at"></i></a>
-  <a href="mailto:nik@nikosalexandris@net">nikosalexandris@duck.com</a>&emsp;&emsp;<a href="tel:+393457350775" style="text-decoration: none"><i class="fas fa-mobile-alt"></i> +39-345-735-0-775</a>
+  <a href="mailto:nik@nikosalexandris@net">nikosalexandris@duck.com</a>
 
 <div id="webaddress">
   <a href="https://linkedin.com/pub/nikos-alexandris"><i class="fab fa-linkedin"></i> nikos-alexandris</a>&emsp;&emsp;
@@ -22,7 +22,7 @@ Ispra, Italy<br/>
 ### Currently
 
 `Since Oct 2021`
-__Contract Agent__, [PVGIS](https://joint-research-centre.ec.europa.eu/pvgis-photovoltaic-geographical-information-system_en)<br/>
+__Contract Agent__, Technical Lead - [PVGIS](https://joint-research-centre.ec.europa.eu/pvgis-photovoltaic-geographical-information-system_en)<br/>
 Unit C2, [JRC](https://ec.europa.eu/jrc/en), EC,
 
 `Oct 2019-Sep 2021`
@@ -98,7 +98,7 @@ Taxiarchis, Chalcidice Peninsula, north Greece
 
 ## Skills
 
-- weak &larr; `*` `**` `***` `****` `*****` &rarr; very strong
+- weak &larr; `*` `**` `***` `****` `*****` &rarr; strong
 
 ### Remote Sensing & GIS
 
@@ -114,7 +114,7 @@ SQLite, PostGIS
 ### OSes & Co
 
 **`****`**
-Linux (Funtoo, EndeavourOS, Ubuntu), neovim, ZFS, ssh,<br> Docker, Supercomputing (High-Throughput Cluster)
+Linux (EndeavourOS, Ubuntu), neovim, ZFS, ssh,<br> Docker, Supercomputing (High-Throughput Cluster)
 
 **`***`**
 tmux, GNU Parallel
@@ -369,8 +369,8 @@ Peloponnese (Greece, 2007) using MODIS products.” In 29th EARSeL Symposium, Sy
 
 Speaks & writes<br/>
 ~ fluently English, German, Greek<br/>
-~ French (niveau B2)<br/>
-~ working level Italian (autodidatta)
+~ competent French<br/>
+~ working level Italian
 
 ## Personal
 
