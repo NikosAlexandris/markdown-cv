@@ -5,16 +5,17 @@ title: Nikos Alexandris' CV
 # Nikos Alexandris
 Geomatics & Remote Sensing
 
-Joint Research Centre [(JRC)](https://ec.europa.eu/jrc/en), European Commission<br/>
-Ispra, Italy<br/>
-
+European Commission, Joint Research Centre [(JRC)](https://ec.europa.eu/jrc/en), Ispra, Italy&emsp;&emsp;
   <a href=""><i class="fas fa-at"></i></a>
-  <a href="mailto:nik@nikosalexandris@net">nikosalexandris@duck.com</a>
+  <a href="mailto:Nikos.Alexandris@ec.europa.eu">Nikos.Alexandris@ec.europa.eu</a>&emsp;&emsp;
+  <a href="tel:+390332785037" style="text-decoration: none"> <i class="fas fa-mobile-alt"></i> +39 033 278 5037</a><br/>
 
 <div id="webaddress">
   <a href="https://linkedin.com/pub/nikos-alexandris"><i class="fab fa-linkedin"></i> nikos-alexandris</a>&emsp;&emsp;
-  <a href="https://github.com/NikosAlexandris"><i class="fab fa-github"></i> NikosAlexandris</a>&emsp;&emsp; 
-  <a href="https://gitlab.com/NikosAlexandris"><i class="fab fa-gitlab"></i> NikosAlexandris</a>
+  <a href="https://bsky.app/profile/nikosalexandris.bsky.social"><i class="fa-brands fa-bluesky"></i> @nikosalexandris.bsky.social</a>&emsp;&emsp;<br/>
+  <a href="https://github.com/NikosAlexandris"><i class="fab fa-github"></i> NikosAlexandris</a>&emsp;&emsp;
+  <a href="https://gitlab.com/NikosAlexandris"><i class="fab fa-gitlab"></i> NikosAlexandris</a>&emsp;&emsp;
+  <a href="https://stackexchange.com/users/945875/nikos-alexandris"><i class="fab fa-stack-exchange"></i> nikos-alexandris</a>
 </div>
 
 ## Experiences
