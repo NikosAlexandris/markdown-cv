@@ -75,6 +75,12 @@ Co-organized by ECAT-Tirana<br/> & SNV-Netherlands in Tirana, Albania
 **Remote Sensing & GIS expert**<br/>
 [Infoterra GmbH](http://www.infoterra.de/), Friedrichshafen, Germany
 
+## Languages
+
+Speaks & writes<br/>
+~ fluently English, German, Greek<br/>
+~ competent French<br/>
+~ working level Italian
 
 ## Education
 
@@ -94,7 +100,6 @@ Pertouli, Trikala, central Greece
 
 `July 2001`
 Taxiarchis, Chalcidice Peninsula, north Greece
-
 
 ## Skills
 
@@ -131,7 +136,7 @@ Bash
 Python
 
 **`***`**
-Git, R (+knitr)
+Git, mlr, R (+knitr)
 
 ### Typography & Web
 
@@ -365,22 +370,6 @@ Peloponnese (Greece, 2007) using MODIS products.” In 29th EARSeL Symposium, Sy
 
 [OSGeo Charter Member](https://www.osgeo.org/member/alexandris/) (see also [OSGeo Wiki](https://wiki.osgeo.org/wiki/Nikos_Alexandris))
 
-## Languages
-
-Speaks & writes<br/>
-~ fluently English, German, Greek<br/>
-~ competent French<br/>
-~ working level Italian
-
-## Personal
-
-Born on 28. 03. 1980, Trikala, Greece
-
-Citizenship: Hellenic
-
-`May 2011 - February 2012`
-Fullfiled military obligations in Greece
-
 <span style="color:gray">
-<br/>Last updated: Apr 2023<br/><br/>
+<br/>Last updated: Feb 2025<br/><br/>
 </span>
