@@ -47,6 +47,7 @@ Independent research project supported by [DEMETER](http://www.elgo.gr/)
 <span style="color:gray">
 Time for recreation and personal development, see also section _Online-courses_
 </span>
+
 `Apr 2013-Dec 2013`
 *[Monitoring Mangroves Restoration from Space](http://www.unep.org/pdf/Monitoring_the_Restoration_of_Mangroves.pdf)*,<br/>[UNEP/GRID-Geneva](http://www.grid.unep.ch)
 
