@@ -23,7 +23,7 @@ European Commission, Joint Research Centre [(JRC)](https://ec.europa.eu/jrc/en),
 ### Currently
 
 `Since Oct 2021`
-__Contract Agent__, Technical Lead - [PVGIS](https://joint-research-centre.ec.europa.eu/pvgis-photovoltaic-geographical-information-system_en)<br/>
+__Contract Agent__, Technical Lead - [PVGIS\[6\]](https://code.europa.eu/pvgis/pvgis)<br/>
 Unit C2, [JRC](https://ec.europa.eu/jrc/en), EC,
 
 `Oct 2019-Sep 2021`
