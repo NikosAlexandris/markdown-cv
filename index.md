@@ -5,10 +5,8 @@ title: Nikos Alexandris' CV
 # Nikos Alexandris
 Geomatics & Remote Sensing
 
-European Commission, Joint Research Centre [(JRC)](https://ec.europa.eu/jrc/en), Ispra, Italy&emsp;&emsp;
   <a href=""><i class="fas fa-at"></i></a>
-  <a href="mailto:Nikos.Alexandris@ec.europa.eu">Nikos.Alexandris@ec.europa.eu</a>&emsp;&emsp;
-  <a href="tel:+390332785037" style="text-decoration: none"> <i class="fas fa-mobile-alt"></i> +39 033 278 5037</a><br/>
+  <a href="mailto:nikosalexandris@duck.com">nikosalexandris@duck.com</a>&emsp;&emsp;
 
 <div id="webaddress">
   <a href="https://linkedin.com/pub/nikos-alexandris"><i class="fab fa-linkedin"></i> nikos-alexandris</a>&emsp;&emsp;
@@ -20,15 +18,16 @@ European Commission, Joint Research Centre [(JRC)](https://ec.europa.eu/jrc/en),
 
 ## Experiences
 
-### Currently
-
-`Since Oct 2021`
-__Contract Agent__, Technical Lead - [PVGIS\[6\]](https://code.europa.eu/pvgis/pvgis)<br/>
-Unit C2, [JRC](https://ec.europa.eu/jrc/en), EC,
+`Oct 2021-Sep 2025`
+__Contract Agent__, Technical Lead -
+[PVGIS\[6\]](https://code.europa.eu/pvgis/pvgis) _the European Commission's public service on photovoltaics_<br/>
+Unit C2,
+Joint Research Centre [(**JRC**)](https://ec.europa.eu/jrc/en),
+European Commission (**EC**), Ispra, Italy<br/>
 
 `Oct 2019-Sep 2021`
 __Contract Agent__, Exploratory research project __THERMOPOLIS__<br/>
-Units A5 & D1, [JRC](https://ec.europa.eu/jrc/en), EC,
+Units A5 & D1, [JRC](https://ec.europa.eu/jrc/en), EC
 
 `Jan 2017-Sep 2019`
 __Geomatics & Remote Sensing expert__<br/>
