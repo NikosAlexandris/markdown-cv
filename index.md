@@ -5,6 +5,9 @@ title: Nikos Alexandris' CV
 # Nikos Alexandris
 Geomatics & Remote Sensing
 
+> Speaks & writes fluently 🇬🇧  English,  🇩🇪  German,  🇬🇷  Greek  
+> Working level in 🇫🇷  French (niveau B2) and 🇮🇹  Italian (autodidatta)
+
   <a href=""><i class="fas fa-at"></i></a>
   <a href="mailto:nikosalexandris@duck.com">nikosalexandris@duck.com</a>&emsp;&emsp;
 
@@ -75,13 +78,6 @@ Co-organized by ECAT-Tirana<br/> & SNV-Netherlands in Tirana, Albania
 `Mar 2005-Sep 2006`
 **Remote Sensing & GIS expert**<br/>
 [Infoterra GmbH](http://www.infoterra.de/), Friedrichshafen, Germany
-
-## Languages
-
-Speaks & writes<br/>
-~ fluently English, German, Greek<br/>
-~ competent French<br/>
-~ working level Italian
 
 ## Education
 
