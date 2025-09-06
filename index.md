@@ -22,15 +22,15 @@ Geomatics & Remote Sensing
 ## Experiences
 
 `Oct 2021-Sep 2025`
-__Contract Agent__, Technical Lead -
+__Technical Lead__ -
 [PVGIS\[6\]](https://code.europa.eu/pvgis/pvgis) _the European Commission's public service on photovoltaics_<br/>
-Unit C2,
+Contract Agent, Unit C2,
 Joint Research Centre [(**JRC**)](https://ec.europa.eu/jrc/en),
 European Commission (**EC**), Ispra, Italy<br/>
 
 `Oct 2019-Sep 2021`
-__Contract Agent__, Exploratory research project __THERMOPOLIS__<br/>
-Units A5 & D1, [JRC](https://ec.europa.eu/jrc/en), EC
+Exploratory research project __THERMOPOLIS__<br/>
+Contract Agent, Units A5 & D1, [JRC](https://ec.europa.eu/jrc/en), EC
 
 `Jan 2017-Sep 2019`
 __Geomatics & Remote Sensing expert__<br/>
