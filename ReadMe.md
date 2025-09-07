@@ -1,37 +1,41 @@
 ---
 layout: cv
-title: Nikos Alexandris' CV
+title: Nikos Alexandris
 ---
 # Nikos Alexandris
 Geomatics & Remote Sensing
 
-Joint Research Centre [(JRC)](https://ec.europa.eu/jrc/en), European Commission<br/>
-Ispra, Italy<br/>
+> Speaks & writes fluently 🇬🇧  English,  🇩🇪  German,  🇬🇷  Greek  
+> Working level 🇫🇷  French (niveau B2),  🇮🇹  Italian (autodidatta)
 
   <a href=""><i class="fas fa-at"></i></a>
-  <a href="mailto:nik@nikosalexandris@net">nikosalexandris@duck.com</a>
+  <a href="mailto:nikosalexandris@duck.com">nikosalexandris@duck.com</a>&emsp;&emsp;
 
 <div id="webaddress">
   <a href="https://linkedin.com/pub/nikos-alexandris"><i class="fab fa-linkedin"></i> nikos-alexandris</a>&emsp;&emsp;
-  <a href="https://github.com/NikosAlexandris"><i class="fab fa-github"></i> NikosAlexandris</a>&emsp;&emsp; 
-  <a href="https://gitlab.com/NikosAlexandris"><i class="fab fa-gitlab"></i> NikosAlexandris</a>
+  <a href="https://bsky.app/profile/nikosalexandris.bsky.social"><i class="fa-brands fa-bluesky"></i> @nikosalexandris.bsky.social</a>&emsp;&emsp;<br/>
+  <a href="https://github.com/NikosAlexandris"><i class="fab fa-github"></i> NikosAlexandris</a>&emsp;&emsp;
+  <a href="https://gitlab.com/NikosAlexandris"><i class="fab fa-gitlab"></i> NikosAlexandris</a>&emsp;&emsp;
+  <a href="https://stackexchange.com/users/945875/nikos-alexandris"><i class="fab fa-stack-exchange"></i> nikos-alexandris</a>
 </div>
 
 ## Experiences
 
-### Currently
-
-`Since Oct 2021`
-__Contract Agent__, Technical Lead - [PVGIS](https://joint-research-centre.ec.europa.eu/pvgis-photovoltaic-geographical-information-system_en)<br/>
-Unit C2, [JRC](https://ec.europa.eu/jrc/en), EC,
+`Oct 2021-Sep 2025`
+__Technical Lead__ -
+[PVGIS v6 : code.europa.eu/pvgis/pvgis](https://code.europa.eu/pvgis/pvgis)  
+Prototype for _the European Commission's public service on photovoltaics_<br/>
+Contract Agent,
+Joint Research Centre [(**JRC**)](https://ec.europa.eu/jrc/en),
+European Commission (**EC**), Ispra, Italy<br/>
 
 `Oct 2019-Sep 2021`
-__Contract Agent__, Exploratory research project __THERMOPOLIS__<br/>
-Units A5 & D1, [JRC](https://ec.europa.eu/jrc/en), EC,
+Exploratory research project __THERMOPOLIS__<br/>
+Contract Agent, [JRC](https://ec.europa.eu/jrc/en), EC
 
 `Jan 2017-Sep 2019`
 __Geomatics & Remote Sensing expert__<br/>
-Land Resources Unit (D3), [JRC](https://ec.europa.eu/jrc/en), EC
+Freelancer / Intra-muros Staff, [JRC](https://ec.europa.eu/jrc/en), EC
 
 `Dec 2015-Sep 2016`
 __Geospatial support__ for [mapx.io](http://mapx.io), [UNEP/GRID-Geneva](https://unepgrid.ch)
@@ -46,6 +50,7 @@ Independent research project supported by [DEMETER](http://www.elgo.gr/)
 <span style="color:gray">
 Time for recreation and personal development, see also section _Online-courses_
 </span>
+
 `Apr 2013-Dec 2013`
 *[Monitoring Mangroves Restoration from Space](http://www.unep.org/pdf/Monitoring_the_Restoration_of_Mangroves.pdf)*,<br/>[UNEP/GRID-Geneva](http://www.grid.unep.ch)
 
@@ -75,7 +80,6 @@ Co-organized by ECAT-Tirana<br/> & SNV-Netherlands in Tirana, Albania
 **Remote Sensing & GIS expert**<br/>
 [Infoterra GmbH](http://www.infoterra.de/), Friedrichshafen, Germany
 
-
 ## Education
 
 `Oct 2005-Jun 2011`
@@ -94,7 +98,6 @@ Pertouli, Trikala, central Greece
 
 `July 2001`
 Taxiarchis, Chalcidice Peninsula, north Greece
-
 
 ## Skills
 
@@ -131,7 +134,7 @@ Bash
 Python
 
 **`***`**
-Git, R (+knitr)
+Git, mlr, R (+knitr)
 
 ### Typography & Web
 
@@ -215,11 +218,11 @@ __Scholarship__ awarded from the __Sofia Chlorou Bequest__ of the __National Tec
 
 ## References
 
-Dr. **Pascal Peduzzi**, UNEP/GRID-Geneva<br><a href="mailto:pascal.peduzzi@unepgrid.ch">pascal.peduzzi@unepgrid.ch</a>
+Dr. **Pascal Peduzzi**, UNEP/GRID-Geneva <a href="mailto:pascal.peduzzi@unepgrid.ch">pascal.peduzzi@unepgrid.ch</a>
 
-Prof. **Demetris Stathakis**, UTH & President, Hellenic Cadastre<br><a href="mailto:dstath@uth.gr">dstath@uth.gr</a>
+Dr. **Emanuele Lugato**, JRC, European Commission <a href="mailto:Emanuele.Lugato@ec.europa.eu">Emanuele.Lugato@ec.europa.eu</a>
 
-Prof. **Steffen Kuntz**, Remote Sensing & GIS<br><a href="mailto:Steffen.Kuntz@astrium.eads.net">Steffen.Kuntz@astrium.eads.net</a>
+Prof. **Demetris Stathakis**, University of Thessaly <a href="mailto:dstath@uth.gr">dstath@uth.gr</a>
 
 ## Talks
 
@@ -269,9 +272,8 @@ __Participation in GRASS-GIS' community sprints__
 
 
 `May 2012`
-__Support translation of the official [OSGeo](https://www.osgeo.org/)
-website in
-[Greek](http://wiki.osgeo.org/wiki/Greek_translation_progress)__
+__Support translation of the official [OSGeo](https://www.osgeo.org/) website
+in [Greek](http://wiki.osgeo.org/wiki/Greek_translation_progress)__
 
 `12 & 13 May 2012`
 **Attended the** [**5th greek FOSSCOMM**](http://serres.fosscomm.gr)
@@ -314,19 +316,21 @@ __Wildlife Museum Guide__
 
 ### Peer reviewed
 
-**Alexandris, Nikos**, Sandeep Gupta, and Nikos Koutsias. 2017. “Remote sensing of
-burned areas via PCA, Part 1; centering, scaling and EVD vs SVD.” Open Geospa-
-tial Data, Software and Standards 2, no. 1 (July): 17. doi: [10.1186/s40965-017-0028-1](https://doi.org/10.1186/s40965-017-0028-1).
+**Alexandris, Nikos**, Sandeep Gupta, and Nikos Koutsias. 2017.  
+“Remote sensing of burned areas via PCA, Part 1; centering, scaling and EVD vs SVD.”  
+Open Geospatial Data, Software and Standards 2, no. 1 (July): 17.  
+doi: [10.1186/s40965-017-0028-1](https://doi.org/10.1186/s40965-017-0028-1).
 
-**Alexandris, Nikos**, Nikos Koutsias, and Sandeep Gupta. 2017. “Remote sensing of
-burned areas via PCA. Part 2: SVD-based PCA using MODIS and Landsat data.”
-Open Geospatial Data, Software and Standards (August). doi: [10.1186/s40965-017-0029-0](https://doi.org/10.1186/s40965-017-0029-0).
+**Alexandris, Nikos**, Nikos Koutsias, and Sandeep Gupta. 2017.  
+“Remote sensing of burned areas via PCA. Part 2: SVD-based PCA using MODIS and Landsat data.”  
+Open Geospatial Data, Software and Standards (August).  
+doi: [10.1186/s40965-017-0029-0](https://doi.org/10.1186/s40965-017-0029-0).
 
 _Giuliani, Gregory_, Hy Dao, Andrea De Bono, Bruno Chatenoux, Karin Allenbach,
 Pierric De Laborie, Denisa Rodila, **Nikos Alexandris**, and Pascal Peduzzi. 2017.
-“Live Monitoring of Earth Surface (LiMES): A framework for monitoring envi-
-ronmental changes from Earth Observations.” Big Remotely Sensed Data: tools,
-applications and experiences, Remote Sensing of Environment 202:222–233. doi: [10.1016/j.rse.2017.05.040](http://www.sciencedirect.com/science/article/pii/S0034425717302481).
+“Live Monitoring of Earth Surface (LiMES): A framework for monitoring environmental changes from Earth Observations.”  
+Big Remotely Sensed Data: tools, applications and experiences, Remote Sensing of Environment 202:222–233.  
+doi: [10.1016/j.rse.2017.05.040](http://www.sciencedirect.com/science/article/pii/S0034425717302481).
 
 ### Various
 
@@ -365,22 +369,6 @@ Peloponnese (Greece, 2007) using MODIS products.” In 29th EARSeL Symposium, Sy
 
 [OSGeo Charter Member](https://www.osgeo.org/member/alexandris/) (see also [OSGeo Wiki](https://wiki.osgeo.org/wiki/Nikos_Alexandris))
 
-## Languages
-
-Speaks & writes<br/>
-~ fluently English, German, Greek<br/>
-~ competent French<br/>
-~ working level Italian
-
-## Personal
-
-Born on 28. 03. 1980, Trikala, Greece
-
-Citizenship: Hellenic
-
-`May 2011 - February 2012`
-Fullfiled military obligations in Greece
-
 <span style="color:gray">
-<br/>Last updated: Apr 2023<br/><br/>
+<br/>Updated : September 2025<br/><br/>
 </span>
