@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Nikos Alexandris' CV
+title: Nikos Alexandris
 ---
 # Nikos Alexandris
 Geomatics & Remote Sensing
