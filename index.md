@@ -38,7 +38,7 @@ __Geomatics & Remote Sensing expert__<br/>
 Freelancer / Intra-muros Staff, [JRC](https://ec.europa.eu/jrc/en), EC
 
 `Dec 2015-Sep 2016`
-__Geospatial support__ for [mapx.io](http://mapx.io), [UNEP/GRID-Geneva](https://unepgrid.ch)
+__Geospatial support__ for [mapx](https://unepgrid.ch/en/mapx), [UNEP/GRID-Geneva](https://unepgrid.ch)
 
 ### Consultancies
 
