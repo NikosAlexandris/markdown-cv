@@ -29,6 +29,11 @@ Contract Agent,
 Joint Research Centre [(**JRC**)](https://ec.europa.eu/jrc/en),
 European Commission (**EC**), Ispra, Italy<br/>
 
+`26.08.24-23.09.24`
+Using CMSAF SARAH-3 data in PVGIS<br/>
+__Visiting Scientist, DWD__ (German Weather Service)
+
+
 `Oct 2019-Sep 2021`
 Exploratory research project __THERMOPOLIS__<br/>
 Contract Agent, [JRC](https://ec.europa.eu/jrc/en), EC
