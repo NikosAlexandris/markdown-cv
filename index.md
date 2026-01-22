@@ -48,8 +48,7 @@ __Geospatial support__ for [mapx](https://unepgrid.ch/en/mapx), [UNEP/GRID-Genev
 ### Consultancies
 
 `Mar 2015-Sep 2015`
-[Vulnerability evaluation of Greek fir forests to climate change](http://www.dimitrios-samaras.net/agroetak)<br/>
-Independent research project supported by [DEMETER](http://www.elgo.gr/)
+Vulnerability assesment of the Greek fir forests to climate change (AgroETAK-3234/6; contact Dr. Dimitrios _Samaras, University of Thessaly [samaras@uth.gr](samaras@uth.gr))<br/>
 
 `Jan 2014-Aug 2015`
 <span style="color:gray">
@@ -57,13 +56,13 @@ Time for recreation and personal development, see also section _Online-courses_
 </span>
 
 `Apr 2013-Dec 2013`
-*[Monitoring Mangroves Restoration from Space](http://www.unep.org/pdf/Monitoring_the_Restoration_of_Mangroves.pdf)*,<br/>[UNEP/GRID-Geneva](http://www.grid.unep.ch)
+*[Monitoring Mangroves Restoration from Space](https://unepgrid.ch/en/resource/2298E705)*,<br/>[UNEP/GRID-Geneva](http://unepgrid.ch)
 
 `Dec 2012-Feb 2013`
-Forest fuel type mapping, [ArcFUEL](http://www.arcfuel.eu), [Epsilon International S.A.](www.epsilon.gr/)
+Forest fuel type mapping, [ArcFUEL](http://www.epsilon.gr/projects/67), [Epsilon International S.A.](https://www.epsilon.gr/)
 
 `January 2013`
-Adaptation of ArcGIS-based timber volume estimation to<br/>GRASS-GIS, [Fondazione Edmund Mach](www.fmach.it/)
+Adaptation of ArcGIS-based timber volume estimation to<br/>GRASS-GIS, [Fondazione Edmund Mach](https://www.fmach.it/)
 
 ### Various
 
@@ -83,7 +82,7 @@ Co-organized by ECAT-Tirana<br/> & SNV-Netherlands in Tirana, Albania
 
 `Mar 2005-Sep 2006`
 **Remote Sensing & GIS expert**<br/>
-[Infoterra GmbH](http://www.infoterra.de/), Friedrichshafen, Germany
+Infoterra GmbH (now under [Airbus Defence & Space](https://space-solutions.airbus.com/), Friedrichshafen, Germany
 
 ## Education
 
@@ -199,7 +198,7 @@ University of Freiburg, Germany,
 ## Internships
 
 `Oct 2007-Feb 2008`
-[UNEP/DEWA/GRID-Geneva](http://www.grid.unep.ch), Switzerland
+[UNEP/DEWA/GRID-Geneva](http://unepgrid.ch), Switzerland
 - Burned area mapping using free & open source geospatial applications
 
 `Mar 2004-Jul 2004`
