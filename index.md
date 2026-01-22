@@ -57,7 +57,7 @@ Time for recreation and personal development, see also section _Online-courses_
 </span>
 
 `Apr 2013-Dec 2013`
-*[Monitoring Mangroves Restoration from Space](https://unepgrid.ch/en/resource/2298E705)*,<br/>[UNEP/GRID-Geneva](http://unepgrid.ch)
+*[Monitoring Mangroves Restoration from Space](https://unepgrid.ch/en/resource/2298E705)*, [UNEP/GRID-Geneva](http://unepgrid.ch)
 
 `Dec 2012-Feb 2013`
 Forest fuel type mapping, [ArcFUEL](http://www.epsilon.gr/projects/67), [Epsilon International S.A.](https://www.epsilon.gr/)
