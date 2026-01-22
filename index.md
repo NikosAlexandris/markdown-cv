@@ -48,7 +48,8 @@ __Geospatial support__ for [mapx](https://unepgrid.ch/en/mapx), [UNEP/GRID-Genev
 ### Consultancies
 
 `Mar 2015-Sep 2015`
-Vulnerability assesment of the Greek fir forests to climate change (AgroETAK-3234/6; contact Dr. Dimitrios _Samaras, University of Thessaly [samaras@uth.gr](samaras@uth.gr))<br/>
+Vulnerability assesment of the Greek fir forests to climate change
+(contact Dr. Dimitrios _Samaras, University of Thessaly [samaras@uth.gr](samaras@uth.gr))<br/>
 
 `Jan 2014-Aug 2015`
 <span style="color:gray">
