@@ -49,7 +49,7 @@ __Geospatial support__ for [mapx](https://unepgrid.ch/en/mapx), [UNEP/GRID-Genev
 
 `Mar 2015-Sep 2015`
 Vulnerability assesment of the Greek fir forests to climate change
-(contact Dr. Dimitrios _Samaras, University of Thessaly [samaras@uth.gr](samaras@uth.gr))<br/>
+(contact Dr. Dimitrios Samaras, University of Thessaly [samaras@uth.gr](samaras@uth.gr))<br/>
 
 `Jan 2014-Aug 2015`
 <span style="color:gray">
@@ -79,7 +79,8 @@ Albert-Ludwigs University, Freiburg i. Br., Germany
 
 `24 & 25 Apr 2008`
 *Rapid Fire Area Mapping* workshop,
-Co-organized by ECAT-Tirana<br/> & SNV-Netherlands in Tirana, Albania
+Co-organized by ECAT-Tirana & SNV-Netherlands in Tirana, Albania
+(contact Harko Koster, SNV [hkoster@snv.org](hkoster@snv.org))
 
 `Mar 2005-Sep 2006`
 **Remote Sensing & GIS expert**<br/>
@@ -344,7 +345,8 @@ _Some original links may be broken_
 **Alexandris, Nikos**. 2011. “Burned area mapping via non-centered SVD-based Principal Components Analysis using public domain data & free open source software.” Online at [http://www.freidok.uni-freiburg.de/volltexte/8399](http://www.freidok.uni-freiburg.de/volltexte/8399) (accessed January 2, 2012). Dissertation, Faculty of Forest & Environmental Sciences Albert-Ludwigs-University Freiburg im Breisgau, Germany.
 
 **Alexandris, Nikos**, Bruno Chatenoux, Laura Lopez Torres, and Pascal Peduzzi. 2013.
-Monitoring The Restoration of Mangrove Ecosystems from Space. Technical report. UNEP/GRID-Geneva Global Change & Vulnerability Unit 11, ch. Des Anémones 1219 Châtelaine Switzerland: UNEP/GRID-Geneva, December. [http://www.unep.org/pdf/Monitoring_the_Restoration_of_Mangroves.pdf](http://www.unep.org/pdf/Monitoring_the_Restoration_of_Mangroves.pdf).
+Monitoring The Restoration of Mangrove Ecosystems from Space. Technical report. UNEP/GRID-Geneva Global Change & Vulnerability Unit 11, ch. Des Anémones 1219 Châtelaine Switzerland: UNEP/GRID-Geneva, December. [https://unepgrid.ch/storage/app/media/legacy/50/Monitoring_the_Restoration_of_Mangroves.pdf](https://unepgrid.ch/storage/app/media/legacy/50/Monitoring_the_Restoration_of_Mangroves.pdf)
+
 
 **Alexandris, Nikos**, and Patrick Pyttel. 2012. “Mapping Disturbed Areas in Aged Coppice on Steep Slopes along Rhine & Moselle (Rheinland-Pfalz), A Visual Interpretation Approach based on True Colour Orthophotos” [in English]. Centre for Geospatial Science, University of Nottingham; Mimas Centre of Excellence, University of Manchester. October. [http://elogeo.nottingham.ac.uk/xmlui](http://elogeo.nottingham.ac.uk/xmlui).
 
@@ -379,5 +381,5 @@ _geoland. 2006c_. Overview of poster exhibition at the 3rd geoland OpenDay. Onli
 [OSGeo Charter Member](https://www.osgeo.org/member/alexandris/) (see also [OSGeo Wiki](https://wiki.osgeo.org/wiki/Nikos_Alexandris))
 
 <span style="color:gray">
-<br/>Updated : September 2025<br/><br/>
+<br/>Updated : January 2026<br/><br/>
 </span>
