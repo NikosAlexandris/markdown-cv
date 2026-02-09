@@ -3,13 +3,12 @@ layout: cv
 title: Nikos Alexandris
 ---
 # Nikos Alexandris
-Geomatics & Remote Sensing
+Scientific Software Engineer | Geomatics | Remote Sensing<br/>
 
-> Speaks & writes fluently 🇬🇧  English,  🇩🇪  German,  🇬🇷  Greek  
-> Working level 🇫🇷  French (niveau B2),  🇮🇹  Italian (autodidatta)
+> Fluent in 🇬🇧  English,  🇩🇪  German,  🇬🇷  Greek<br/>Working level 🇫🇷  French (B2),  🇮🇹  Italian (autodidatta)  
+> Python scientific stack expert for environmental modeling
 
-  <a href=""><i class="fas fa-at"></i></a>
-  <a href="mailto:nikosalexandris@duck.com">nikosalexandris@duck.com</a>&emsp;&emsp;
+  <a href="mailto:nikosalexandris@duck.com"><i class="fas fa-at"></i> nikosalexandris@duck.com</a>&emsp;&emsp; 
 
 <div id="webaddress">
   <a href="https://linkedin.com/pub/nikos-alexandris"><i class="fab fa-linkedin"></i> nikos-alexandris</a>&emsp;&emsp;
@@ -19,160 +18,82 @@ Geomatics & Remote Sensing
   <a href="https://stackexchange.com/users/945875/nikos-alexandris"><i class="fab fa-stack-exchange"></i> nikos-alexandris</a>
 </div>
 
+<span style="color:gray">
+<br/>Updated : February 2026 | Available immediately<br/><br/>
+</span>
+
+
+## Profile
+
+Scientific software engineer building data‑intensive applications for climate and photovoltaics.
+Strong focus on modular architectures, readable code and automated testing for reliable operations.  
+Extensive Python, Linux & GIS/Remote Sensing background (10+ years), experiences in European public‑sector and UN environments.
+
 ## Experiences
 
 `Oct 2021-Sep 2025`
 __Technical Lead__ -
-[PVGIS v6 : code.europa.eu/pvgis/pvgis](https://code.europa.eu/pvgis/pvgis)  
+[PVGIS v6 : code.europa.eu/pvgis/pvgis](https://code.europa.eu/pvgis/pvgis),
 Prototype for _the European Commission's public service on photovoltaics_<br/>
 Contract Agent,
 Joint Research Centre [(**JRC**)](https://ec.europa.eu/jrc/en),
 European Commission (**EC**), Ispra, Italy<br/>
 
 `26.08.24-23.09.24`
-Using CMSAF SARAH-3 data in PVGIS<br/>
-__Visiting Scientist, DWD__ (German Weather Service)
+Using CMSAF SARAH-3 data in PVGISm __Visiting Scientist, DWD__ (German Weather Service)
 
 
 `Oct 2019-Sep 2021`
-Exploratory research project __THERMOPOLIS__<br/>
+Internal exploratory research projects on land surface temperature,
 Contract Agent, [JRC](https://ec.europa.eu/jrc/en), EC
 
 `Jan 2017-Sep 2019`
-__Geomatics & Remote Sensing expert__<br/>
-Freelancer / Intra-muros Staff, [JRC](https://ec.europa.eu/jrc/en), EC
+__Geomatics & Remote Sensing expert__, Freelancer / Intra-muros Staff, [JRC](https://ec.europa.eu/jrc/en), EC
 
 `Dec 2015-Sep 2016`
-__Geospatial support__ for [mapx](https://unepgrid.ch/en/mapx), [UNEP/GRID-Geneva](https://unepgrid.ch)
+__Geospatial support__ for [MapX](https://unepgrid.ch/en/mapx), [UNEP/GRID-Geneva](https://unepgrid.ch)
 
-### Consultancies
+### Consultancies (selection)
 
-`Mar 2015-Sep 2015`
-Vulnerability assesment of the Greek fir forests to climate change
-(contact Dr. Dimitrios Samaras, University of Thessaly [samaras@uth.gr](samaras@uth.gr))<br/>
+`2013–2015`
+Remote sensing & GIS (UNEP/GRID, Fondazione Edmund Mach, Epsilon International)  
+_Details and references available on request_
 
-`Jan 2014-Aug 2015`
-<span style="color:gray">
-Time for recreation and personal development, see also section _Online-courses_
-</span>
+### Earlier experience
 
-`Apr 2013-Dec 2013`
-*[Monitoring Mangroves Restoration from Space](https://unepgrid.ch/en/resource/2298E705)*, [UNEP/GRID-Geneva](http://unepgrid.ch)
-
-`Dec 2012-Feb 2013`
-Forest fuel type mapping, [ArcFUEL](http://www.epsilon.gr/projects/67), [Epsilon International S.A.](https://www.epsilon.gr/)
-
-`January 2013`
-Adaptation of ArcGIS-based timber volume estimation to<br/>GRASS-GIS, [Fondazione Edmund Mach](https://www.fmach.it/)
-
-### Various
-
-`July 2009`
-Guest scientist in the *Site Classification of European Forests* practicum,
-[Silviculture Institute](https://www.waldbau.uni-freiburg.de/front-page-en?set_language=en),
-Albert-Ludwigs University, Freiburg i. Br., Germany
-
-`Mar 2009`
-Mapping disturbed areas in aged coppice on steep slopes in Rhine & Moselle
-[Silviculture Institute](https://www.waldbau.uni-freiburg.de/front-page-en?set_language=en),
-Albert-Ludwigs University, Freiburg i. Br., Germany
-
-`24 & 25 Apr 2008`
-*Rapid Fire Area Mapping* workshop,
-Co-organized by ECAT-Tirana & SNV-Netherlands in Tirana, Albania
-(contact Harko Koster, SNV [hkoster@snv.org](hkoster@snv.org))
-
-`Mar 2005-Sep 2006`
-**Remote Sensing & GIS expert**<br/>
-Infoterra GmbH (now under [Airbus Defence & Space](https://space-solutions.airbus.com/), Friedrichshafen, Germany
+`2005–2009`
+Mapping disturbed areas (Uni-Freiburg), Rapid Fire Area Mapping workshop (SNV), Infoterra GmbH
 
 ## Education
 
 `Oct 2005-Jun 2011`
 __Dr. rer. nat.__, Dpt. of Remote Sensing & Landscape Information Systems ([FeLIS](http://www.felis.uni-freiburg.de)), Faculty of Forest & Environmental Sciences, University of Freiburg, Germany
 
-`Oct 2004-Oct 2005`
-__Master's program__, _Sustainable Forestry & Land Use_<br/>_Management_, Faculty of Forest & Environmental Sciences, University of Freiburg, Germany -- ___Attended only one year___
-
 `Sep 1999-Jul 2004`
-- __Diploma__, Faculty of Forestry & Natural Environment,<br/> Aristotle University of Thessaloniki, Greece<br/> _5 years of studies, equivalent to Master's_
-
-__Training, Practical Forestry in University-owned forests__
-
-`Jul 2003 & Aug 2002`
-Pertouli, Trikala, central Greece
-
-`July 2001`
-Taxiarchis, Chalcidice Peninsula, north Greece
+- __Diploma__, Faculty of Forestry & Natural Environment,<br/> Aristotle University of Thessaloniki, Greece
 
 ## Skills
 
-- weak &larr; `*` `**` `***` `****` `*****` &rarr; strong
+`Scale`
+- weak &larr; `*` &emsp; `**` &emsp; `***` &emsp; `****` &emsp; `*****` &rarr; strong
 
-### Remote Sensing & GIS
+`GIS & Remote Sensing`
+- GRASS-GIS&emsp;`*****` &emsp;&emsp; QGIS/GDAL&emsp;`****`<br/>SQLite&emsp;`***` &emsp;&emsp; PostGIS&emsp;`**`  
 
-**`*****`**
-GRASS-GIS
+`OSes / DevOps`
+- Linux, neovim, ZFS, ssh, Docker, Supercomputing&emsp; **`****`** &emsp;&emsp; tmux, GNU Parallel, CI/CD&emsp;**`***`** &emsp;&emsp; SCons&emsp;**`**`**
 
-**`****`**
-QGIS, GDAL/OGR
+`Scripting & Versioning`
+- Bash&emsp;**`*****`** &emsp;&emsp; Python (+ NumPy, Xarray, Scipy) &emsp;**`****`** &emsp;&emsp; Git&emsp;**`***`** &emsp;&emsp; R (+knitr)&emsp;**`***`** &emsp;&emsp; mlr&emsp;**`***`** 
 
-**`***`**
-SQLite, PostGIS   
 
-### OSes & Co
+`Typography & Web`
+- LaTeX, KOMA-script, HTML, CSS&emsp;**`***`**
 
-**`****`**
-Linux (EndeavourOS, Ubuntu), neovim, ZFS, ssh,<br> Docker, Supercomputing (High-Throughput Cluster)
-
-**`***`**
-tmux, GNU Parallel
-
-**`**`**
-CI/CD, SCons
-
-### Scripting & Versioning
-
-**`*****`**
-Bash
-
-**`****`**
-Python
-
-**`***`**
-Git, mlr, R (+knitr)
-
-### Typography & Web
-
-**`***`**
- LaTeX, KOMA-script, HTML, CSS
-
-## Advanced Training
-
-`Oct 2008-Jan 2009`
-__Einführung in die Statistik mit R__
-- by Dr. Jürgen Zell, Abteilung Biometrie und Informatik,
-[Forstliche Versuchs- und Forschungsanstalt, Baden-Württemberg (FVA)](http://www.fva-bw.de/)
-- organized by the [Center for Key Qualifications/ Zentrum für Schlüsselqualifikationen (ZfS)](http://www.zfs.uni-freiburg.de/),
-University of Freiburg
-
-`15+16 May 2008`
-__Hochschuldidaktische Grundlagen fuer Internationale Doktorandinnen und Doktoranden im Bereich Teaching Assistant I__
-- by Petra Eggensperger, Arbeitsstelle Hochschuldidaktik Freiburg, Universität Freiburg
-
-`Oct 31-Nov 4, 2005`
-__Introduction to RADAR Image Processing__
-- by Prof. Dr. Steffen Kuntz, organized by the Laboratory for Forest Management & Remote Sensing of the Forestry Faculty at the Aristotle University of Thessaloniki
-
-`November 2004`
-__Einführung in Linux__
-- by Saher Semáan, Rechenzentrum, Albert-Ludwigs Universität, Freiburg
-
-`7+8 June 2004`
-__Special Decision Support System for Environmental Analysis__
-- organized within the frame of the EU-project geoland by the Laboratory for Forest Management & Remote Sensing of the Forestry Faculty at the Aristotle University of Thessaloniki
-
-### Online-courses
+## Further Training (selection)
+`Jan 2026-present`
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (Andrew Ng, DeepLearning.AI / Coursera)  
+Neural networks, CNNs/RNNs, transformers, TensorFlow for sequence/image data.
 
 `Sep 2014-Jan 2018`
 [Fundamentals of Computing](https://www.coursera.org/account/accomplishments/specialization/R9XKZADED9A6)
@@ -180,44 +101,13 @@ specialization at
 [Coursera](https://www.coursera.org/)
 - (7 course certificates, 1 capstone project)
 
-`Apr-Oct 2014`
-[Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage)
-series at Coursera
-
-`5 to 30 Nov 2007`
-__National Integrated Environmental Process, Design & Organization, UNEP__
-- Final assignment discusses key questions of an Integrated Environmental Assessment on *The Greek Forest Fire Problematic*.
-
-`September 2007`
-__A practical Look at Quantum GIS__
-- coordinated by Gary Lee Watry, Center For Ocean-Atmospheric Prediction Studies
-
-`Winter Semester 2002/03`
-__Applied Statistics__
-- e-learning course based on [ILIAS](http://www.e-learning.uni-koeln.de/132.html),
-University of Freiburg, Germany,
-
-## Internships
+## Internships, Honors, Scholarships
 
 `Oct 2007-Feb 2008`
-[UNEP/DEWA/GRID-Geneva](http://unepgrid.ch), Switzerland
-- Burned area mapping using free & open source geospatial applications
-
-`Mar 2004-Jul 2004`
-__GeoInfo--Applied Research & Studies__, Thessaloniki, Greece
-- GIS training, participating in running projects, partially elaborated the diploma thesis
-
-`Aug 2003`
-Forestry Service in Kalabaka, Prefecture of Trikala, Greece
-
-## Honors
+Internship in [UNEPGRID-Geneva](http://unepgrid.ch), Switzerland. Burned area mapping using free & open source geospatial applications
 
 `Jul 2008`
-__Significant contribution to the
-[ISPRS Student Consortium Newsletter](http://www.isprs-sc.org/newsletters)__
-- International Society for Photogrammetry & Remote Sensing
-
-## Scholarships
+__Significant contribution__ to the [ISPRS Student Consortium Newsletter](http://www.isprs-sc.org/newsletters)
 
 `Oct 2005-Oct 2009`
 __Scholarship__ awarded from the __Sofia Chlorou Bequest__ of the __National Technical University of Athens__, Greece
@@ -230,93 +120,26 @@ Dr. **Emanuele Lugato**, JRC, European Commission <a href="mailto:Emanuele.Lugat
 
 Prof. **Demetris Stathakis**, University of Thessaly <a href="mailto:dstath@uth.gr">dstath@uth.gr</a>
 
-## Talks
+## Selected Talks, Conferences
 
-`May 3rd, 2014`
-**[FOSSCOMM2014](http://lamia.fosscomm.gr/)**, Lamia, Greece
-Oral presentation about processing QuickBird2 imagery using GRASS-GIS in
-greek: *Επεξεργασία δορυφορικών εικόνων υψηλής ανάλυσης με το GRASS-GIS,
-παράδειγμα ανάλυσης δεδομένων του δορυφόρου QuickBird2*,
+`September 2025`
+**Nikos Alexandris**, Alexandros Falangas, Olympia Gounari, Alba Santos Rodrigues. PVGIS 6: a future-proof prototype open-source software for photovoltaics. EU PVSEC 2025, Exhibition. Bilbao, Spain.  
+
+`January 2025`
+**Nikos Alexandris**, "SARAH data in PVGIS: past, present & future". Oral presentation. [CM SAF User Workshop 2025](https://www.cmsaf.eu/EN/Outreach/Workshops/past_workshops/CMSAF_User_Workshop_2025/agenda_WS_Bonn.pdf?__blob=publicationFile&v=5). Bonn, Germany.
+
+`6 November 2024`
+**Nikos Alexandris**, PVGIS 6, Presentation at the Digital Stakeholder Forum
 
 `March 4th, 2014`
 **VHDL laboratory, ECE**,
 GRASS-GIS & Workshop (*Processing High Resolution Satellite Imagery with GRASS-GIS, An Example Using QuickBird2 Imagery*), Kurukshetra University, India
 
-`February 21st, 2014`
-**TERI University**,
-Talk about GRASS-GIS, Delhi, India
-
-`May 2012`
-**[HellasGI](http://www.hellasgi.gr)'s
-[7th](http://www.hellasgi.gr/index.php?option=com_content&view=article&id=51:7-hellasgis&catid=28:2009-10-19-09-36-03&Itemid=17) conference**,
-Oral presentation of dissertation (__Alexandris2011__) in greek
-[(PDFfile)](http://www.hellasgi.gr/index.php?option=com_docman&task=doc_download&gid=172&Itemid=2)
-
-`June 17-19, 2011`
-**1st Hellenic GRASS & GFOSS User's Meeting**,
-Talk about<br/>GRASS-GIS,
-Moni Paou, Argalasti, Pilio, Volos, Greece
-
-`November 2010`
-**1st GeoDataCamp organised by [geodata.gov.gr](http://www.geodata.gov.gr/geodata/) volunteers &
-[ΕΛ/ΛΑΚ](http://ellak.gr/) (the Greek FS/OSS) community members**
-- Talk on burned area mapping using public domain data and GFOSS
-- One-on-One example based demonstration of GRASS-GIS
-NTUA, Athens, Greece
-
 `June 15h, 2009`
 **[29th EARSeL Symposium](http://earsel29.maich.gr/docs/EARSeL_programme_abstract_book.pdf)**,
 Oral presentation _Estimating the Forest Fire Damage in Peloponnese (Greece, 2007) using MODIS products_, Chania, Crete, Greece
 
-## Extracurricular
-
-__Participation in GRASS-GIS' community sprints__
-- [Bonn 2018](https://grasswiki.osgeo.org/wiki/GRASS_GIS_Community_Sprint_Bonn_2018),
-- [Bonn 2016](http://grasswiki.osgeo.org/wiki/GRASS_Community_Sprint_Bonn_2016),
-- [Genova 2013](http://grasswiki.osgeo.org/wiki/GRASS_Community_Sprint_Genova_2013),
-- [Prague 2012](http://grass.osgeo.org/wiki/GRASS_Community_Sprint_Prague_2012)
-
-
-`May 2012`
-__Support translation of the official [OSGeo](https://www.osgeo.org/) website
-in [Greek](http://wiki.osgeo.org/wiki/Greek_translation_progress)__
-
-`12 & 13 May 2012`
-**Attended the** [**5th greek FOSSCOMM**](http://serres.fosscomm.gr)
-
-`2008 - Present`
-**End-user contributions in Open Source Projects**
-
-- [**GRASS-GIS**](http://grass.osgeo.org/)
-  - Official GRASS-GIS site: [http://grass.osgeo.org/](http://grass.osgeo.org)
-  - GRASS GIS Tracker and Wiki: [http://trac.osgeo.org/grass](http://trac.osgeo.org/grass)
-  - GRASS GIS Users Wiki: [http://grass.osgeo.org/wiki/Main_Page](http://grass.osgeo.org/wiki/Main_Page)
-  - "grass-user" mailing list: [http://lists.osgeo.org/pipermail/grass-user/](http://lists.osgeo.org/pipermail/grass-user/)
-  - "grass-dev" mailing list: [http://lists.osgeo.org/pipermail/grass-user/](http://lists.osgeo.org/pipermail/grass-dev)
-
-- [**Quantum-GIS**](http://qgis.osgeo.org)
-  - Designed and contributed some [north arrows for QGIS](http://hub.qgis.org/projects/quantum-gis/repository/revisions/2695fcdaec1939ba0e0f86484da3a16ba78dc947)
-  - Archive of the "qgis-user" mailing list: [http://lists.osgeo.org/pipermail/qgis-user/](http://lists.osgeo.org/pipermail/qgis-user/)
-
-- __Tutorials using GRASS-GIS__
-  - [Principal Components Analysis in GRASS-GIS' wiki](http://grass.osgeo.org/wiki/Principal_Components_Analysis)
-  - Using ASTER GDEM tiles with GRASS-GIS: [ASTER topography](http://grass.osgeo.org/wiki/ASTER_topography)
-  - [CORINE Land Cover](http://www.eea.europa.eu/publications/COR0-landcover):
-  - Instructions on the processing of CORINE land cover at GRASS-GIS' wiki: [Processing the "vector version of the CORINE land cover 2000" with GRASS-GIS](http://grass.osgeo.org/wiki/CORINE_Land_Cover\#Vector)
-  - [Using the CORINE2000 land cover/ land use data base with GRASS-GIS under Ubuntu-linux 8.04](http://www.osgeo.org/node/1325)
-  - Αναπαραγωγή του χάρτη CORINE με το GRASS-GIS, 2η δημοσίευση, Φεβρουάριος 2009: [Reproduction of the CORINE land cover/ use map using GRASS-GIS [in Greek]](http://prdownload.berlios.de/gregis/corine_grass-gis_el.pdf)
-
-`June 2008`
-__Interview in the magazine Greek Linux Format (current Linux Inside)__
-- Burned area mapping using free open source software,
- Issue 22, June-August 2008, (accessed on October 25, 2011)
-
-`Winter 2001 - Summer 2004`
-__Wildlife Museum Guide__
-- Institute for Wildlife & Wild management, Forestry Faculty, Aristotle University in Thessaloniki
-
-`August 1997`
-**Coordinator of a voluntary work group of WWF-Hellas**, opening a mountainous ecotouristic path, Lefkimi, Evros, Greece
+_Full list on request_
 
 ## Publications
 
@@ -340,46 +163,18 @@ doi: [10.1016/j.rse.2017.05.040](http://www.sciencedirect.com/science/article/pi
 
 ### Various
 
-_Some original links may be broken_
-
 **Alexandris, Nikos**. 2011. “Burned area mapping via non-centered SVD-based Principal Components Analysis using public domain data & free open source software.” Online at [http://www.freidok.uni-freiburg.de/volltexte/8399](http://www.freidok.uni-freiburg.de/volltexte/8399) (accessed January 2, 2012). Dissertation, Faculty of Forest & Environmental Sciences Albert-Ludwigs-University Freiburg im Breisgau, Germany.
 
 **Alexandris, Nikos**, Bruno Chatenoux, Laura Lopez Torres, and Pascal Peduzzi. 2013.
 Monitoring The Restoration of Mangrove Ecosystems from Space. Technical report. UNEP/GRID-Geneva Global Change & Vulnerability Unit 11, ch. Des Anémones 1219 Châtelaine Switzerland: UNEP/GRID-Geneva, December. [https://unepgrid.ch/storage/app/media/legacy/50/Monitoring_the_Restoration_of_Mangroves.pdf](https://unepgrid.ch/storage/app/media/legacy/50/Monitoring_the_Restoration_of_Mangroves.pdf)
 
 
-**Alexandris, Nikos**, and Patrick Pyttel. 2012. “Mapping Disturbed Areas in Aged Coppice on Steep Slopes along Rhine & Moselle (Rheinland-Pfalz), A Visual Interpretation Approach based on True Colour Orthophotos” [in English]. Centre for Geospatial Science, University of Nottingham; Mimas Centre of Excellence, University of Manchester. October. [http://elogeo.nottingham.ac.uk/xmlui](http://elogeo.nottingham.ac.uk/xmlui).
+## Extracurricular, Memberships
 
-_ISPRS-SC. 2008_. Newsletter. Online. International Society for Photogrammetry and Remote Sensing, Student Consortium. [http://www.isprs-sc.org/newsletters](http://www.isprs-sc.org/newsletters).
-
-_Kalamaras, Dimitris_. 2008. Interview in the magazine Greek Linux Format (current Linux Inside) concerning burned area mapping using free open source software, (in Greek): Ο δασολόγος **Νίκος Αλεξανδρής** εξηγεί πως μπορεί να βοηθήσει το Linux και το ελεύθερο λογισμικό στην χαρτογράφηση των καμένων δασών. LINUX FORMAT 22 (ΙΟΥΛΙΟΣ–ΑΥΓΟΥΣΤΟΣ) [in Greek]. Edited by Dimitris Kalamaras. Magazine. Linux Inside, a greek magazine about Linux (former Greek Linux Format), Greece, May. Accessed through [http://web.archive.org](http://web.archive.org/web/20080925193645/http://www.linuxformat.gr/?q=content/linux-format-22-io%CF%85%CE%BB%CE%B9%CE%BF%CF%83-%CE%B1%CF%85%CE%B3%CE%BF%CF%85%CF%83%CF%84%CE%BF%CF%83-2008) on October 25, 2011.
-
-## Conferences
-
-`2025`
-**Nikos Alexandris**, Alexandros Falangas, Olympia Gounari, Alba Santos Rodrigues. PVGIS 6: a future-proof prototype open-source software for photovoltaics. EU PVSEC 2025, Exhibition. Bilbao, Spain, September.
-
-**Nikos Alexandris**, "SARAH data in PVGIS: past, present & future". Oral presentation. [CM SAF User Workshop 2025](https://www.cmsaf.eu/EN/Outreach/Workshops/past_workshops/CMSAF_User_Workshop_2025/agenda_WS_Bonn.pdf?__blob=publicationFile&v=5). Bonn, Germany, January.
-
-`2009`
-**Alexandris, Nikos**, and Nikos Koutsias. 2009. “Estimating the Forest Fire Damage in Peloponnese (Greece, 2007) using MODIS products.” In 29th EARSeL Symposium, Symposium Programme and Abstract Book, edited by Ioannis Manakos, Chariton Kalaitzidis, Dina Petraki, and Nikos Psyllakis, 4. Oral presentation. MAICh Conference Center, Chania, Crete - Greece: MAICh, October. [http://earsel29.maich.gr/docs/EARSeL_programme_abstract_book.pdf](http://earsel29.maich.gr/docs/EARSeL_programme_abstract_book.pdf).
-
-`2007`
-_Samaras, Dimitris_, **Nikos Alexandris**, Fotis Xystrakis, and Georgios Mouflis. 2007. “Climatic classification of central Sterea Hellas with the use of GIS [in Greek].” In Proceedings of the 4 th panhellenic congress ”modern tendencies in ecological research”, 156–157. Volos, Greece, October.
-
-`2006`
-**Alexandris, Nikos**. 2006. GMES Land Monitoring Core Service in Mediterranean Environments. Exhibited during the 3rd geoland OpenDay. Poster about Interoperable Nomenclature (Fast Track Service and CORINE), February. [http://web.archive.org/web/20091026124742/http://www.gmes-geoland.info/events/presentations.php?occ_id=43](http://web.archive.org/web/20091026124742/http://www.gmes-geoland.info/events/presentations.php?occ_id=43).
-
-_geoland. 2006a_. Index of geoland Events. Online. [http://web.archive.org/web/20100510202737/http://www.gmes-geoland.info/events/index.php](http://web.archive.org/web/20100510202737/http://www.gmes-geoland.info/events/index.php).
-
-_geoland. 2006b_. List of participants at the 3rd geoland OpenDay. Online. 3rd geoland OpenDay, Vienna, Austria, February. [http://web.archive.org/web/20091025004637/http://www.gmes-geoland.info/events/download/ListOfParticipants.pdf](http://web.archive.org/web/20091025004637/http://www.gmes-geoland.info/events/download/ListOfParticipants.pdf).
-
-_geoland. 2006c_. Overview of poster exhibition at the 3rd geoland OpenDay. Online. 3rd geoland OpenDay, Poster Exhibition, Vienna, Austria, February. [http://web.archive.org/web/20081121035536/http://www.gmes-geoland.info/events/download/Overview_PosterExhibition.pdf](http://web.archive.org/web/20081121035536/http://www.gmes-geoland.info/events/download/Overview_PosterExhibition.pdf).
-
-## Memberships
+__Participation in GRASS-GIS' community sprints__
+[Bonn 2018](https://grasswiki.osgeo.org/wiki/GRASS_GIS_Community_Sprint_Bonn_2018),
+[Bonn 2016](http://grasswiki.osgeo.org/wiki/GRASS_Community_Sprint_Bonn_2016),
+[Genova 2013](http://grasswiki.osgeo.org/wiki/GRASS_Community_Sprint_Genova_2013),
+[Prague 2012](http://grass.osgeo.org/wiki/GRASS_Community_Sprint_Prague_2012)
 
 [OSGeo Charter Member](https://www.osgeo.org/member/alexandris/) (see also [OSGeo Wiki](https://wiki.osgeo.org/wiki/Nikos_Alexandris))
-
-<span style="color:gray">
-<br/>Updated : January 2026<br/><br/>
-</span>
