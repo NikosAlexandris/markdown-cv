@@ -25,9 +25,15 @@ Scientific Software Engineer | Geomatics | Remote Sensing<br/>
 
 ## Profile
 
-Scientific software engineer building data‑intensive applications for climate and photovoltaics.
-Strong focus on modular architectures, readable code and automated testing for reliable operations.  
-Extensive Python, Linux & GIS/Remote Sensing background (10+ years), experiences in European public‑sector and UN environments.
+Scientific software engineer and tech lead
+building data‑intensive applications
+for climate and photovoltaics.
+Strong focus on modular architectures (backends, APIs),
+readable code
+and automated testing for reliable operations.  
+Extensive Python, Linux & GIS/Remote Sensing background (10+ years),
+experiences in European public‑sector and UN environments.
+
 
 ## Experiences
 
@@ -77,28 +83,28 @@ __Dr. rer. nat.__, Dpt. of Remote Sensing & Landscape Information Systems ([FeL
 `Scale`
 - weak &larr; `*` &emsp; `**` &emsp; `***` &emsp; `****` &emsp; `*****` &rarr; strong
 
-`GIS & Remote Sensing`
-- GRASS-GIS&emsp;`*****` &emsp;&emsp; QGIS/GDAL&emsp;`****`<br/>SQLite&emsp;`***` &emsp;&emsp; PostGIS&emsp;`**`  
+`Scripting, Versioning, Statistics`
+- Bash&emsp;**`*****`** &emsp;&emsp; Python (+ NumPy, Xarray, Scipy) &emsp;**`****`** &emsp;&emsp; Git&emsp;**`***`** &emsp;&emsp; R (+knitr)&emsp;**`***`** &emsp;&emsp; mlr&emsp;**`***`** 
 
 `OSes / DevOps`
 - Linux, neovim, ZFS, ssh, Docker, Supercomputing&emsp; **`****`** &emsp;&emsp; tmux, GNU Parallel, CI/CD&emsp;**`***`** &emsp;&emsp; SCons&emsp;**`**`**
 
-`Scripting & Versioning`
-- Bash&emsp;**`*****`** &emsp;&emsp; Python (+ NumPy, Xarray, Scipy) &emsp;**`****`** &emsp;&emsp; Git&emsp;**`***`** &emsp;&emsp; R (+knitr)&emsp;**`***`** &emsp;&emsp; mlr&emsp;**`***`** 
-
+`GIS & Remote Sensing`
+- GRASS-GIS&emsp;`*****` &emsp;&emsp; QGIS/GDAL&emsp;`****`<br/>SQLite&emsp;`***` &emsp;&emsp; PostGIS&emsp;`**`  
 
 `Typography & Web`
 - LaTeX, KOMA-script, HTML, CSS&emsp;**`***`**
 
 ## Further Training (selection)
 `Jan 2026-present`
+
 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (Andrew Ng, DeepLearning.AI / Coursera)  
 Neural networks, CNNs/RNNs, transformers, TensorFlow for sequence/image data.
+- Certificates : [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/Q1SUR93QE18E), [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/6NOIDS9UTJNK)
 
 `Sep 2014-Jan 2018`
 [Fundamentals of Computing](https://www.coursera.org/account/accomplishments/specialization/R9XKZADED9A6)
-specialization at
-[Coursera](https://www.coursera.org/)
+specialization at Coursera
 - (7 course certificates, 1 capstone project)
 
 ## Internships, Honors, Scholarships
@@ -120,10 +126,10 @@ Dr. **Emanuele Lugato**, JRC, European Commission <a href="mailto:Emanuele.Lugat
 
 Prof. **Demetris Stathakis**, University of Thessaly <a href="mailto:dstath@uth.gr">dstath@uth.gr</a>
 
-## Selected Talks, Conferences
+## Talks, Conferences (selection)
 
 `September 2025`
-**Nikos Alexandris**, Alexandros Falangas, Olympia Gounari, Alba Santos Rodrigues. PVGIS 6: a future-proof prototype open-source software for photovoltaics. EU PVSEC 2025, Exhibition. Bilbao, Spain.  
+**Nikos Alexandris**, Alexandros Falangas, Olympia Gounari, Alba Santos Rodrigues. PVGIS 6: a future-proof prototype open-source software for photovoltaics. Poster. EU PVSEC 2025, Exhibition. Bilbao, Spain.  
 
 `January 2025`
 **Nikos Alexandris**, "SARAH data in PVGIS: past, present & future". Oral presentation. [CM SAF User Workshop 2025](https://www.cmsaf.eu/EN/Outreach/Workshops/past_workshops/CMSAF_User_Workshop_2025/agenda_WS_Bonn.pdf?__blob=publicationFile&v=5). Bonn, Germany.
