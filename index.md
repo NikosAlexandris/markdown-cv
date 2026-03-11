@@ -113,7 +113,7 @@ specialization at Coursera
 Internship in [UNEPGRID-Geneva](http://unepgrid.ch), Switzerland. Burned area mapping using free & open source geospatial applications
 
 `Jul 2008`
-__Significant contribution__ to the [ISPRS Student Consortium Newsletter](http://www.isprs-sc.org/newsletters)
+__Significant contribution__ to the [ISPRS Student Consortium Newsletter](https://sc.isprs.org/newsletters/)
 
 `Oct 2005-Oct 2009`
 __Scholarship__ awarded from the __Sofia Chlorou Bequest__ of the __National Technical University of Athens__, Greece
