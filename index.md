@@ -25,15 +25,20 @@ Scientific Software Engineer | Geomatics | Remote Sensing<br/>
 
 ## Profile
 
-Scientific software engineer and tech lead
-building data‑intensive applications
-for climate and photovoltaics.
-Strong focus on modular architectures (backends, APIs),
-readable code
-and automated testing for reliable operations.  
-Extensive Python, Linux & GIS/Remote Sensing background (10+ years),
-experiences in European public‑sector and UN environments.
-
+Scientific Software Engineer
+and Tech Lead
+building data-intensive, scalable applications
+for complex time-series analysis, climate and photovoltaics.
+Turning complex algorithms into production-grade systems
+with robust validation concepts.
+Strong focus on modular architectures (backends, APIs, CLIs),
+clean code, and automated testing.
+Extensive experience in Python (scientific stack),
+anomaly detection, Linux power-user,
+and parallel processing on HTC/HPC systems.
+Background in GIS/Remote Sensing
+applied to European public-sector and UN projects.
+Currently expanding expertise in Deep Learning (CNNs/RNNs/Transformers) for predictive modeling.
 
 ## Experiences
 
