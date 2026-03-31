@@ -19,7 +19,7 @@ Scientific Software Engineer | Geomatics | Remote Sensing<br/>
 </div>
 
 <span style="color:gray">
-<br/>Updated : February 2026 | Available immediately<br/><br/>
+<br/>Updated : March 2026 | Available immediately<br/><br/>
 </span>
 
 
@@ -51,11 +51,12 @@ Joint Research Centre [(**JRC**)](https://ec.europa.eu/jrc/en),
 European Commission (**EC**), Ispra, Italy<br/>
 
 `26.08.24-23.09.24`
-Using CMSAF SARAH-3 data in PVGISm __Visiting Scientist, DWD__ (German Weather Service)
+Using CMSAF SARAH-3 data in PVGIS<br/>
+__Visiting Scientist, DWD__ (German Weather Service)
 
 
 `Oct 2019-Sep 2021`
-Internal exploratory research projects on land surface temperature,
+Internal exploratory research projects on land surface temperature<br/>
 Contract Agent, [JRC](https://ec.europa.eu/jrc/en), EC
 
 `Jan 2017-Sep 2019`
@@ -73,7 +74,7 @@ _Details and references available on request_
 ### Earlier experience
 
 `2005–2009`
-Mapping disturbed areas (Uni-Freiburg), Rapid Fire Area Mapping workshop (SNV), Infoterra GmbH
+Mapping disturbed areas (Uni-Freiburg), Rapid Fire Area Mapping workshop (SNV), GIS & Remote Sensing (Infoterra GmbH)
 
 ## Education
 
@@ -81,24 +82,36 @@ Mapping disturbed areas (Uni-Freiburg), Rapid Fire Area Mapping workshop (SNV), 
 __Dr. rer. nat.__, Dpt. of Remote Sensing & Landscape Information Systems ([FeLIS](http://www.felis.uni-freiburg.de)), Faculty of Forest & Environmental Sciences, University of Freiburg, Germany
 
 `Sep 1999-Jul 2004`
-- __Diploma__, Faculty of Forestry & Natural Environment,<br/> Aristotle University of Thessaloniki, Greece
+- __Diploma__, Faculty of Forestry & Natural Environment, Aristotle University of Thessaloniki, Greece
 
 ## Skills
 
-`Scale`
-- weak &larr; `*` &emsp; `**` &emsp; `***` &emsp; `****` &emsp; `*****` &rarr; strong
+`Programming`
+- Python (NumPy, SciPy, Xarray, Polars), Bash, Git, mlr 
 
-`Scripting, Versioning, Statistics`
-- Bash&emsp;**`*****`** &emsp;&emsp; Python (+ NumPy, Xarray, Scipy) &emsp;**`****`** &emsp;&emsp; Git&emsp;**`***`** &emsp;&emsp; R (+knitr)&emsp;**`***`** &emsp;&emsp; mlr&emsp;**`***`** 
+`Machine Learning`
+- CNNs/RNNs/Transformers (current training)
 
 `OSes / DevOps`
-- Linux, neovim, ZFS, ssh, Docker, Supercomputing&emsp; **`****`** &emsp;&emsp; tmux, GNU Parallel, CI/CD&emsp;**`***`** &emsp;&emsp; SCons&emsp;**`**`**
+- Linux, neovim, ZFS, XFS, ssh, Docker, Supercomputing (HPC/HTC), tmux, GNU Parallel, CI/CD, SCons
+
+`Backend / Web`
+- FastAPI, REST APIs, CLI tools, CI/CD pipelines
 
 `GIS & Remote Sensing`
-- GRASS-GIS&emsp;`*****` &emsp;&emsp; QGIS/GDAL&emsp;`****`<br/>SQLite&emsp;`***` &emsp;&emsp; PostGIS&emsp;`**`  
+- GRASS-GIS, QGIS/GDAL, SQLite, PostGIS
 
 `Typography & Web`
-- LaTeX, KOMA-script, HTML, CSS&emsp;**`***`**
+- LaTeX, HTML, CSS, automated documentation builds
+
+### Domain expertise
+`&emsp; `
+- Photovoltaic potential modeling
+- Satellite time series analysis (Landsat, MODIS, CM-SAF, SARAHx, ERA5)
+- Land surface temperature estimation
+- Burned area mapping
+- Environmental/climate data pipelines
+- Open-source software development
 
 ## Further Training (selection)
 `Jan 2026-present`
