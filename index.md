@@ -87,13 +87,13 @@ __Dr. rer. nat.__, Dpt. of Remote Sensing & Landscape Information Systems ([FeL
 ## Skills
 
 `Programming`
-- Python (NumPy, SciPy, Xarray, Polars), Bash, Git, mlr 
+- Python (NumPy, SciPy, Xarray, Polars, Pydantic, asyncio), Bash, Git, mlr 
 
 `Machine Learning`
 - CNNs/RNNs/Transformers (current training)
 
 `OSes / DevOps`
-- Linux, neovim, ZFS, XFS, ssh, Docker, Supercomputing (HPC/HTC), tmux, GNU Parallel, CI/CD, SCons
+- Linux, neovim, ZFS, XFS, Zarr, ssh, Docker, Supercomputing (HPC/HTC), tmux, GNU Parallel, CI/CD, SCons
 
 `Backend / Web`
 - FastAPI, REST APIs, CLI tools, CI/CD pipelines
