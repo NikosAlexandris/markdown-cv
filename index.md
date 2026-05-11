@@ -29,7 +29,7 @@ Scientific Software Engineer
 and Tech Lead
 building data-intensive, scalable applications
 for complex time-series analysis, climate and photovoltaics.
-Turning complex algorithms into production-grade systems
+Turning complex algorithms into functional systems
 with robust validation concepts.
 Strong focus on modular architectures (backends, APIs, CLIs),
 clean code, and automated testing.
@@ -44,8 +44,9 @@ Currently expanding expertise in Deep Learning (CNNs/RNNs/Transformers) for pred
 
 `Oct 2021-Sep 2025`
 __Technical Lead__ -
-[PVGIS v6 : code.europa.eu/pvgis/pvgis](https://code.europa.eu/pvgis/pvgis),
+[PVGIS v6 : code.europa.eu/pvgis/pvgis-prototype-deprecated](https://code.europa.eu/pvgis/pvgis-prototype-deprecated),
 Prototype for _the European Commission's public service on photovoltaics_<br/>
+(see also documentation : [pvgis-prototype-6492ef.gitlab.io/](https://pvgis-prototype-6492ef.gitlab.io/)).
 Contract Agent,
 Joint Research Centre [(**JRC**)](https://ec.europa.eu/jrc/en),
 European Commission (**EC**), Ispra, Italy<br/>
