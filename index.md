@@ -105,6 +105,9 @@ __Dr. rer. nat.__, Dpt. of Remote Sensing & Landscape Information Systems ([FeL
 `Typography & Web`
 - LaTeX, HTML, CSS, automated documentation builds
 
+`see also`
+- https://stackshare.io/NikosAlexandris/my-stack
+
 ### Domain expertise
 `&emsp; `
 - Photovoltaic potential modeling
